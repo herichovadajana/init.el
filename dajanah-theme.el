@@ -3,7 +3,7 @@
 
 (custom-theme-set-faces
  'dajanah
- '(default ((t (:family "default" :foundry "default" :width normal :height 1 :weight normal :slant normal :underline nil :overline nil :extend nil :strike-through nil :box nil :inverse-video nil :foreground "unspecified-fg" :background "unspecified-bg" :stipple nil :inherit nil))))
+ '(default ((t (:family "default" :foundry "default" :width normal :height 1 :weight normal :slant normal :underline nil :overline nil :extend nil :strike-through nil :box nil :inverse-video nil :foreground "unspecified-fg" :background: "313249" :stipple nil :inherit nil))))
  '(cursor ((((background light)) (:background "black")) (((background dark)) (:background "white"))))
  '(fixed-pitch ((t (:family "Monospace"))))
  '(variable-pitch ((((type w32)) (:foundry "outline" :family "Arial")) (t (:family "Sans Serif"))))
