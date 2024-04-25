@@ -1,0 +1,14 @@
+/home/dajanah/nyaya/credo-pipeline/invocation/test/nyaya/invocation/bond_equities_classification_test.clj
+/tmp/#!home!dajanah!nyaya!credo-pipeline!invocation!test!nyaya!invocation!bond_equities_classification_test.clj#
+/home/dajanah/nyaya/credo-pipeline/invocation/test-resources/fi-classification-short.csv
+/tmp/#!home!dajanah!nyaya!credo-pipeline!invocation!test-resources!fi-classification-short.csv#
+/home/dajanah/nyaya/test-csv/fi-classification.csv
+/tmp/#!home!dajanah!nyaya!test-csv!fi-classification.csv#
+/home/dajanah/nyaya/test/credo-pipeline/invocation/test-resources/elegible-isins-enriched-eq.csv
+/tmp/#!home!dajanah!nyaya!test!credo-pipeline!invocation!test-resources!elegible-isins-enriched-eq.csv#
+/home/dajanah/nyaya/credo-pipeline/acquisition/test/nyaya/acquisition/ingestion_test.clj
+/tmp/#!home!dajanah!nyaya!credo-pipeline!acquisition!test!nyaya!acquisition!ingestion_test.clj#
+/home/dajanah/nyaya/credo-pipeline/invocation/src/config.edn
+/tmp/#!home!dajanah!nyaya!credo-pipeline!invocation!src!config.edn#
+/home/dajanah/nyaya/credo-pipeline/invocation/test-resources/eq-classification-short.csv
+/tmp/#!home!dajanah!nyaya!credo-pipeline!invocation!test-resources!eq-classification-short.csv#

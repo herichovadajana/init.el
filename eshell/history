@@ -1,0 +1,128 @@
+aws configure 
+terraform init
+aws configure 
+echo @APP_ENV
+echo $APP_ENV
+echo $SYS_MASTER_KEY
+echo $AWS_ACESS_KEY_ID
+git diff
+aws configure list
+cd ~
+ls
+aws configure
+cd pink-panther-ltd/pp-scan/pp-terraform/environments/staging/
+terraform init
+aws configure list
+terraform init
+terraform init
+cd ~
+ls
+e .aws
+cd .aws
+ls
+e config 
+ls
+cd ~
+cd terraform-test/
+ls
+terraform init
+terraform plan
+terraform init
+cd ..
+ls
+clj -X:tasks delete-table-contents/-main :table-name "catalogue"
+clj -X:tasks put-catalogue/-main :filename "resources/catalogue.csv"
+clj -X:tasks put-catalogue/-main :filename "resources/catalogue.csv"
+clj -X:tasks put-catalogue/-main :filename "resources/catalogue.csv"
+clj -X:tasks delete-table-contents/-main :table-name "catalogue"
+clj -X:tasks put-catalogue/-main :filename "resources/catalogue.csv"
+terraform plan 
+terraform init
+terraform plan 
+terraform apply
+terraform plan 
+terraform import auth0_conenction.database con_RxMiqabchVcHSooP
+terraform import auth0_connection.database con_RxMiqabchVcHSooP
+terraform plan 
+terraform apply
+terraform plan
+terraform apply
+touch universal_login_body.html
+terraform plan
+terraform plan
+terraform apply
+terraform plan
+terraform apply
+terraform plan
+terraform apply
+terraform plan
+terraform plan
+terraform apply
+terraform plan
+terraform apply
+terraform plan
+terraform apply
+terraform plan
+terraform apply
+terraform plan
+terraform apply
+terraform plan
+terraform plan
+terraform apply
+terraform plan
+terraform plan
+terraform plan
+terraform plan
+terraform apply
+terraform plan
+terraform apply
+ls
+terraform plan
+terraform plan
+terraform apply
+terraform apply
+terraform plan
+terraform apply
+terraform apply
+terraform plan
+terraform apply
+touc new.html
+fuck
+touc new.html
+fuck
+touch new.html
+touch last.html
+ls
+cd pp-scan-api/
+clj -X:test
+clj -X:test
+ls
+rm -r resources/public/js
+clj -X:test
+e /tmp/clojure-9200285427266771414.edn 
+clj -X:test
+ls
+cd resources/
+ls
+cd public/
+ls
+cd js/
+ls
+cd ..
+ls
+cd ..
+ls
+rm -r public/
+ls
+cd ..
+ls
+clj -X:test
+clj -X:test
+clj -X:test
+clj -X:test
+clj -X:test
+ls
+touch add_page_products.cljs
+tree
+ls
+git checkout -- .

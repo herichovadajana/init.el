@@ -1,0 +1,2142 @@
+((("grid-api" .
+   [1 0 0 0 0 0 0 0])
+  ("on-range-selection-changed" .
+   [2 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("use-portal?" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("cond->" .
+   [3 0 0 0 0 0])
+  ("use-portal" .
+   [2 0 0 0 0 1 0 0 0 0])
+  ("small" .
+   [1 0 0 0 0])
+  ("medium" .
+   [1 0 0 0 0 0])
+  ("fit-content" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("strategy" .
+   [0 0 0 0 1 0 0 0])
+  ("position" .
+   [3 0 0 0 0 0 0 0])
+  ("parent-ref" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("re" .
+   [3 0])
+  ("uixd" .
+   [1 0 0 0])
+  ("portal-root" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("selected-idx" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  (":to" .
+   [1 0 0])
+  (":idx" .
+   [1 0 0 0])
+  ("values" .
+   [1 0 0 0 0 0])
+  ("to" .
+   [3 0])
+  ("from" .
+   [8 0 0 0])
+  ("idx" .
+   [1 0 0])
+  ("panels" .
+   [1 0 0 0 0 0])
+  ("tron-legacy-theme" .
+   [0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0])
+  ("nordic-night" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("nordic-night-theme" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nord-theme" .
+   [2 0 0 0 0 0 0 0 0 0])
+  (":config" .
+   [1 0 0 0 0 0 0])
+  ("add-hook" .
+   [0 0 0 0 0 0 0 1])
+  (":ensure" .
+   [1 0 0 0 0 0 0])
+  ("use-package" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("pages-with-removed-column" .
+   [0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":pages" .
+   [1 0 0 0 0 0])
+  ("st" .
+   [2 0])
+  ("log/debug" .
+   [0 0 0 0 0 0 1 0 0])
+  ("verify-token" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  (":aud" .
+   [1 0 0 0])
+  (":shadow.build/stages" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":none" .
+   [1 0 0 0 0])
+  (":target" .
+   [1 0 0 0 0 0 0])
+  ("black" .
+   [1 0 2 0 0])
+  ("background-color" .
+   [0 0 0 1 1 1 0 0 0 0 0 2 0 1 0 0])
+  ("color" .
+   [1 0 0 0 0])
+  (":barcode" .
+   [1 0 0 0 0 0 0 0])
+  ("handler/frontend" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("unauthorized-response" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("clojure.string/split" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  (":status" .
+   [2 0 0 0 0 0 0])
+  ("Exception" .
+   [1 0 0 0 1 0 0 0 0])
+  ("catch" .
+   [2 0 0 0 0])
+  ("jwt-token" .
+   [2 0 0 2 3 0 1 0 0])
+  ("jwk-endpoint" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("clj-jwt/unsign" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("try" .
+   [2 0 0])
+  ("headers" .
+   [3 0 0 0 1 0 0])
+  ("log/info" .
+   [2 0 0 0 0 0 3 0])
+  (":auth-client-initialised" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":auth-client" .
+   [1 0 0 0 0 0 1 2 1 0 0 0])
+  ("auth-client" .
+   [5 0 0 0 0 0 0 4 0 0 0])
+  ("error" .
+   [2 0 0 0 0])
+  ("logout-params" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("auth0" .
+   [1 0 0 0 0])
+  (".then" .
+   [1 0 0 0 0])
+  ("logout" .
+   [2 0 0 0 0 0])
+  ("rf/subscribe" .
+   [0 0 0 0 0 2 0 0 0 0 0 0])
+  ("rf/reg-sub" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (":received-access-token" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":access-token" .
+   [0 0 0 0 0 1 1 2 0 0 0 0 0])
+  ("rf/reg-event-db" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  (":failed-to-retrieve-tag-info?" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":assign-sku-without-api" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("respond/response" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("respond/res" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("hiccup-page" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("tag-id-passcode-matching-html" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("js/console.log" .
+   [0 0 0 1 1 6 1 0 0 0 0 0 0 9])
+  ("sku" .
+   [5 0 0])
+  (":val" .
+   [1 0 0 0])
+  (":set-local-storage" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":persisted-sku" .
+   [0 0 0 0 0 0 3 0 0 0 0 0 0 0])
+  ("rf/reg-event-fx" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":get-local-storage" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("local-storage" .
+   [0 0 0 0 1 1 2 0 0 0 0 0 0])
+  ("rf/reg-fx" .
+   [0 0 0 0 0 1 0 0 0])
+  ("new-value" .
+   [2 0 0 0 0 0 0 0 0])
+  ("sku-dropdown" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("catalogue" .
+   [0 0 0 0 2 1 0 0 0])
+  (":component" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("index" .
+   [4 0 0 0 0])
+  ("style" .
+   [1 0 0 0 0])
+  ("render-row" .
+   [3 0 0 0 0 0 0 0 0 0])
+  ("tables-buttons-placeholders/styled-success-alert" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("rf/dispatch" .
+   [0 0 0 0 0 2 0 0 0 0 1])
+  (":toggle-selected-different-sku" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":selected-different-sku?" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 2 0 0 1 0 0 0])
+  ("selected-different-sku" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("product-sku" .
+   [2 0 0 0 1 0 0 0 0 0 0])
+  ("selected-sku" .
+   [3 0 0 0 0 1 0 0 0 1 0 1])
+  (":sku-dropdown" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0])
+  (":selected" .
+   [2 0 0 0 0 0 0 0 0])
+  ("app" .
+   [2 0 0])
+  ("pp-ui" .
+   [1 0 0 0 0])
+  ("pp-ui.core" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("-50" .
+   [1 0 0])
+  ("tentacle-cut" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("c" .
+   [1])
+  ("b" .
+   [1])
+  ("-1.4" .
+   [1 0 0 0])
+  ("base" .
+   [5 0 0 0])
+  (":angle" .
+   [1 0 0 0 0 0])
+  ("rotate-extrude" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("-0.2" .
+   [1 0 0 0])
+  ("mouth-spheroid" .
+   [0 0 0 0 0 0 2 0 1 0 0 0 0 0])
+  ("mouth" .
+   [4 0 0 0 0])
+  ("-0.1" .
+   [3 0 0 0])
+  ("-" .
+   [1])
+  ("nose" .
+   [3 0 0 0])
+  ("left-eye" .
+   [2 0 0 0 0 0 0 0])
+  ("-0.5" .
+   [1 0 0 0])
+  ("right-eye" .
+   [3 0 0 0 0 0 0 0 0])
+  ("eye" .
+   [6 0 0])
+  ("head-sphere" .
+   [4 0 0 0 0 1 0 0 0 0 0])
+  ("os/rotate-extrude" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("os/hull" .
+   [1 0 0 0 0 0 0])
+  ("hull" .
+   [1 0 0 0])
+  ("head" .
+   [2 0 0 0])
+  ("os/circle" .
+   [1 0 0 0 0 0 0 0 0])
+  ("face-cut" .
+   [2 0 0 0 0 1 0 0])
+  ("left-ear" .
+   [0 0 0 0 0 1 0 0])
+  ("right-ear" .
+   [1 0 0 0 0 0 0 0 0])
+  ("os/mirror" .
+   [0 0 0 0 0 2 0 0 0])
+  ("os/cylinder" .
+   [1 0 0 0 0 1 0 0 0 0 0])
+  ("-0.25" .
+   [1 0 0 0 0])
+  ("-5" .
+   [2 0])
+  ("octocat" .
+   [5 0 0 1 0 0 0])
+  ("os/union" .
+   [0 0 0 0 0 2 0 0])
+  ("-1" .
+   [7 0])
+  ("resolution" .
+   [4 0 0 0 0 1 0 0 0 0])
+  ("resolve" .
+   [0 0 0 0 1 0 1])
+  ("os/rotate" .
+   [4 0 0 0 0 0 0 1 1])
+  ("os/translate" .
+   [1 0 0 0 0 1 9 0 2 0 0 1])
+  ("os/cube" .
+   [2 0 0 0 0 1 1])
+  ("os/generate-polyhedron" .
+   [0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("os/difference" .
+   [2 0 0 2 1 0 0 0 2 0 0 0 0])
+  (":z" .
+   [34 0])
+  ("os" .
+   [5 0])
+  (":second-radius" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ear" .
+   [11 0 0])
+  (":x" .
+   [28 0])
+  (":y" .
+   [28 0])
+  ("os/scale" .
+   [7 0 0 0 0 0 2 0])
+  (":resolution" .
+   [3 0 0 0 1 0 0 0 0 0 0])
+  ("my-design" .
+   [1 0 0 0 0 0 0 0 0])
+  (":radius" .
+   [8 0 0 0 0 0 0])
+  ("os/sphere" .
+   [3 0 0 0 0 2 0 0 1])
+  ("bind" .
+   [0 0 0 1])
+  ("sorting-item" .
+   [1 0 0 0 0 0 0 1 1 0 0 0])
+  ("timestamp" .
+   [2 0 0 0 0 0 0 0 0])
+  ("records" .
+   [3 0 0 2 2 0 0])
+  ("nodes-and-edges-to-delete" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("all-edges" .
+   [0 0 0 0 0 0 1 0 0])
+  ("recur" .
+   [3 0 0 0 0])
+  ("new-nodes-to-delete" .
+   [0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("node-to" .
+   [1 0 0 0 0 0 0])
+  ("node-from" .
+   [1 0 0 0 0 0 0 0 0])
+  ("nodes-to-delete" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 3])
+  (":resolved" .
+   [1 0 0 0 0 0 0 0 0])
+  ("target" .
+   [2 0 0 0 0 0])
+  ("bottom5percentileIndustryAsjustedESGScoreForSector" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":bottom5PercentileIndustryAdjustedESGScoreForSector" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("of" .
+   [1 0])
+  ("industry-adjusted-average-score" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("recommended" .
+   [0 0 0 0 2 0 1 1 0 0 0])
+  ("edn/read-string" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("spreadsheet-compatible-float" .
+   [8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("bottom5PercentileWeightedAverageESGScoreForSector" .
+   [0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("an" .
+   [3 0])
+  ("environmental-pillar-average-score" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("governance-pillar-average-score" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("csv-output" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("csv-output-attrs" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("spreadsheet-compatible-format" .
+   [1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("eqOnThematicFocusList" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("eqOnGRCDThemesList" .
+   [0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("e" .
+   [1])
+  ("attr" .
+   [6 0 0 0])
+  ("ks" .
+   [1 0])
+  ("eq" .
+   [3 0])
+  ("datalog/headers" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("local-csv" .
+   [0 0 0 0 0 0 0 0 1])
+  ("csv-export-attributes-fi-aws" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ifi" .
+   [1 0 0])
+  ("datalog/enrich-fi" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("n" .
+   [2])
+  (":bondIssuerIssuedEsgEnhancedInLast3Q" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":error" .
+   [1 0 0 0 0 0])
+  ("classification" .
+   [1 0 0 0 0 0 1 0 0 1 1 0 0 0])
+  ("datalog/enrich-eq" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("enrich" .
+   [1 0 0 0 0 0])
+  ("both" .
+   [1 0 0 0])
+  ("different-from-spreadsheet" .
+   [0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("some?" .
+   [2 0 0 0 0])
+  ("into-dict-lookthrough" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("->>" .
+   [13 0 0])
+  ("only-excel" .
+   [0 0 0 0 0 2 1 0 0 0])
+  ("excel" .
+   [7 0 0 0 0])
+  ("isin->cfi-q" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("morningstar-feed-q" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("bloombergbond-enrichment" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("bloombergbond" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("gss-entity-id" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("entity-id" .
+   [1 0 0 0 0 0 0 0 0])
+  (":sustgss/field-date" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("?se" .
+   [2 0 0])
+  ("in-sustgss?" .
+   [1 0 0 0 0 0 0 0 0 0 1])
+  ("sust-entity-id" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  (":sustgss/entity-id" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("==" .
+   [1 0])
+  ("datalog/fi-scope-query" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("unique-isins" .
+   [0 0 0 1 0 0 0 0 0 0 0 0])
+  (":bloomesg/s" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  (":msciref/issuer-id" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":hsbcsm/recommended" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":bloomesg/social-bond-ind" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("params" .
+   [1 0 0 0 0 0])
+  ("classify-portfolio" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("body-str" .
+   [1 0 1 0 0 1 1 0])
+  ("ring.util.request/body-string" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("wrap-body-string" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("::portfolios/portfolios" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("portfolios" .
+   [3 0 0 0 0 0 0 0 0 0])
+  ("nyaya.scorecards.api.esg.scorecards.portfolios" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":or" .
+   [1 0 0])
+  (":and" .
+   [1 0 0 0])
+  (":isin-2" .
+   [1 0 0 0 0 0 0])
+  (":or-2" .
+   [1 0 0 0 0])
+  (":parent-1" .
+   [5 0 0 0 0 0 0 0 0])
+  (":parent" .
+   [7 0 0 0 0 0 0])
+  ("parent" .
+   [10 0 0 0 0 0])
+  (":visible?" .
+   [1 0 0 0 0 0 0 0 0])
+  (":light?" .
+   [1 0 0 0 0 0 0])
+  (":data" .
+   [1 0 0 0 0])
+  ("node-id" .
+   [6 0 0 0 0 0 0])
+  ("parent-node" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  (":models" .
+   [2 0 0 0 0 0 0])
+  ("models" .
+   [1 0 0 0 0 0])
+  ("eti-l-2" .
+   [3 0 0 0 0 0 0])
+  ("the" .
+   [1 0 0])
+  ("eti-l-1" .
+   [7 0 0 0 0 0 0])
+  ("step-5" .
+   [2 0 0 0 0 0])
+  ("step-4" .
+   [3 0 0 0 0 0])
+  ("step-3" .
+   [5 0 0 0 0 0])
+  ("step-2-4" .
+   [4 0 0 0 0 0 0 0])
+  ("step-2-3" .
+   [8 0 0 0 0 0 0 0])
+  ("step-1" .
+   [5 0 0 0 0 0])
+  (":on-reco-list" .
+   [0 0 0 0 0 0 1 0 0 1 0 0 0])
+  (":weighted-average-score" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("SectorScore" .
+   [65 0 0 0 0 0 0 0 0 0 0])
+  ("file" .
+   [1 0 0 0])
+  ("seed-file" .
+   [2 0 0 0 0 0 0 0 0])
+  ("prevent-private" .
+   [1 0 0 0 0 0 0 0 3 0 0 0 0 0 0])
+  (":log-in" .
+   [0 0 0 0 0 0 1])
+  (":navigate!" .
+   [0 0 0 0 0 0 0 1 0 0])
+  (":routes/log-in" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("rfe/push-state" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("succesful-login?" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("dispatch-key" .
+   [5 0 0 0 0 0 0 0 1 0 0 0])
+  ("tables-buttons-placeholders" .
+   [1 0 0 0 0 0 0 0 0 0 0 1 2 0 1 0 0 0 1 0 0 0 0 0 0 0 1])
+  ("tables-buttons-placeholder" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("credo-data.views.table-buttons-placeholders" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":require" .
+   [1 0 0 0 0 0 0 0])
+  ("all-data-to-render" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("all-data-to-display" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  (":select" .
+   [1 0 0 0 0 0 0])
+  ("data-to-display" .
+   [0 0 0 0 0 0 0 0 1 2 2 0 0 0 0])
+  ("toggled-data" .
+   [0 0 0 0 0 0 2 0 1 0 0 0])
+  ("data-to-render" .
+   [5 0 0 0 0 0 0 2 3 0 0 0 0 0])
+  (":checked" .
+   [0 0 0 0 0 0 0 1])
+  ("csk/->kebab-case-keyword" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("re-frame/reg-event-db" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("table-id" .
+   [9 0 0 0 0 0 0 0])
+  (":table-id" .
+   [1 0 0 0 0 0 0 0 0])
+  (":toggle-data-to-render" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  (":data-to-render" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("product-data-to-display" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("icon-button" .
+   [0 0 0 0 0 2 0 0 0 0 0])
+  (":font-size" .
+   [0 0 0 0 0 0 0 0 0 5])
+  (":vertical-align" .
+   [0 0 0 0 0 0 0 0 0 0 0 3 0 0 0])
+  ("search-button" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("search" .
+   [2 0 0 0 0 0])
+  ("header-id" .
+   [1 0 0 0 0 0 0 0 0])
+  ("header" .
+   [6 0 0 0 0 1])
+  (":cfi" .
+   [7 0 0 0])
+  ("header-keyword" .
+   [2 0 0 1 0 0 0 0 0 0 1 0 0 0])
+  (":disable-portal" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("autocomplete-options" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0])
+  ("react-component" .
+   [0 0 0 0 2 0 1 0 0 0 0 0 0 0 0])
+  ("text-field" .
+   [2 0 0 0 0 1 0 0 0 0])
+  (":render-input" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("autocomplete" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("error-logs" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("log-out" .
+   [1 0 0 0 0 0 0])
+  ("credo-data.views.log-out" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("portfolio-reports" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("credo-data.views.portfolio-reports" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("opened-notifications" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  (":on-close" .
+   [2 0 0 0 0 0 0 0 0])
+  (":open" .
+   [2 0 0 0 0])
+  ("open-notifications" .
+   [0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":aria-describedby" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("modal-box" .
+   [0 0 0 0 0 0 1 0 0])
+  ("paper" .
+   [1 0 0 0 0])
+  (":animated" .
+   [1 0 0 0 0 0 0 0 0])
+  (":animation" .
+   [0 0 0 0 0 1 0 0 0 0])
+  (":button" .
+   [1 0 0 0 0 0 0])
+  ("test-flag" .
+   [0 0 0 0 0 2 1 0 0])
+  ("result" .
+   [3 0 0 1 0 1])
+  ("product-query-result" .
+   [0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("isins-table" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  (":social-bond-ind" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  (":green-bond-loan-indicator" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  (":green-bond" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("data-value" .
+   [0 0 0 0 0 1 0 0 0 0])
+  (":step-4" .
+   [1 0 0 0 0 0 0])
+  (":site-auth-failure" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  (":query-definition-load-fail" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("popup-styles" .
+   [2 0 0 0 0 0 1 5 1 0 0 0])
+  ("popup-style" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("transformation-popup-data" .
+   [20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0])
+  (":transformation-popup-data" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":close-transformation-popup" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  (":border-radius" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  (":overflow" .
+   [0 0 0 0 0 0 1 0 1])
+  (":margin-right" .
+   [2 0 0 0 0 0 0 0 0 0 0 1 0])
+  (":float" .
+   [6 0 0 0 0 0])
+  (":z-index" .
+   [0 0 0 1 0 2 0 0])
+  (":bottom" .
+   [2 0 0 0 0 0 0])
+  (":height" .
+   [7 0 0 0 1 0 0])
+  ("popover-anchor-wrapper" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("popover-content-wrapper-args-desc" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("popover-anchor-wrapper-args-desc" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("node-props-id" .
+   [0 0 0 0 0 0 1 0 0 0 1 0 1])
+  ("node-props" .
+   [6 0 0 0 0 0 0 0 0 0])
+  ("js->clj" .
+   [4 0 0 1 4 0 0])
+  ("text" .
+   [2 0 0 0])
+  ("props" .
+   [29 0 0 0 0])
+  ("r/as-element" .
+   [0 0 0 0 6 0 0 1 0 0 0 0])
+  (":on-node-click" .
+   [0 0 0 0 0 0 1 1 0 0 0 0 0 0])
+  (":children" .
+   [2 0 0 0 0 1 0 0 0])
+  (":value" .
+   [11 0 0 0 0 0])
+  (":margin-top" .
+   [3 0 0 1 0 0 0 0 0 0 3])
+  ("data-to-filter" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("filtered-codes" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("in" .
+   [8 0])
+  ("data-category" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("categories" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("clear-filter" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("clear" .
+   [5 0 0 0 2])
+  ("filtered-data" .
+   [1 0 0 0 0 0 0 0 1 0 0 0 0])
+  (":filter-errors" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":errors-data" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("re-frame/subscribe" .
+   [0 0 0 0 0 0 1 0 0 1 0 4 1 0 0 0 0 0])
+  ("errors" .
+   [1 0 0 0 1 0])
+  ("sample-data/error" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  (":errors" .
+   [1 0 0 0 0 0 0])
+  (":filter-invocation" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":filter-transform-creation" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":filter-acquisition" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":filter-configuration" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("re-frame/dispatch" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4])
+  (":invocation" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  (":transform-creation" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":filter-data" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  (":filter" .
+   [2 0 0 0 0 0 0])
+  (":views/errors-log" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("handlers" .
+   [1 0 0 0 0 0 0 0])
+  ("Errors" .
+   [1 0 0 0 0 0])
+  (":on-click" .
+   [5 0 0 1 1 0 0 1 6])
+  (":transformations" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  (":configuration" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":acquisition" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  (":width" .
+   [16 0 0 3 0 0])
+  (":margin-left" .
+   [11 0 0 0 0 1 0 0 0 0 2 0])
+  ("styles/styled" .
+   [0 0 0 0 0 1 0 10 0 1 0 0 4])
+  ("checkbox" .
+   [3 0 0 0 0 2 0 0])
+  ("form-control-label" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("form-group" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (":hold-use" .
+   [1 0 0 0 0 0 0 0 0])
+  ("?sustainalytics-entity-id" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("MS-feed-part-1-1" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("lsh" .
+   [0 0 1])
+  (":metrics" .
+   [1 0 0 0 0 0 0 0])
+  ("value" .
+   [5 0 0 0 0])
+  ("metric-name" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("metric" .
+   [1 0 0 0 1 0])
+  ("?metric-name" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("metrics" .
+   [26 0 1 0 1 0 0])
+  (":metric-type" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("meander/search" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("?social-bond-ind" .
+   [0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0])
+  ("enriched-data" .
+   [0 0 0 0 0 0 0 0 0 1 1 0 0])
+  ("?value" .
+   [1 0 0 0 0 0])
+  ("?metric-type" .
+   [1 0 0 0 0 0 0 0 1 0 0 0])
+  ("?name" .
+   [4 0 0 0 0])
+  ("meander/scan" .
+   [7 0 0 0 0 0 0 0 0 0 0 0])
+  ("ETI-model-2" .
+   [4 0 0 0 0 0 0 0 0 0 0])
+  ("eti-model-1" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("changes-to-model-1" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("eti-model-3" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("?bbg-data-missing" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("impact-model-2" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("impact" .
+   [2 0 0 1 0 0])
+  ("ETI-model-3" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  (":eti-model-1" .
+   [1 0 0 0 0 0 0 1 0 0 0 0])
+  ("ETI" .
+   [1 0 0])
+  (">=" .
+   [4 0])
+  ("in-top-30-pct-s-score" .
+   [0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  (":eti" .
+   [1 0 0 0])
+  ("eti" .
+   [8 0 0])
+  ("ETI-model-1" .
+   [2 0 0 0 1 2 1 0 1 0 2])
+  ("e-score" .
+   [1 0 1 0 1 1 0])
+  ("?g-score" .
+   [0 0 0 1 0 0 0 0])
+  ("?s-score" .
+   [1 0 0 0 0 0 0 0])
+  ("?e-score" .
+   [1 0 0 0 0 0 0 0])
+  ("in-top-30-pct-e-score" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("in-top-20-pct-esg-score" .
+   [0 0 0 0 0 0 1 1 0 1 1 0 0 0 1 0 1 0 0 0 0 0 0])
+  (":in-top-20pct-esg-score" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("min-sector-score-ok" .
+   [0 0 0 1 0 1 4 5 0 0 0 0 0 0 0 0 0 0 0])
+  (":min-sector-score-ok" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("is-ungc-compliant" .
+   [2 0 0 1 0 8 1 0 0 0 0 0 0 0 0 0 3])
+  (":is-ungc-compliant" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("enhanced-pt-2" .
+   [6 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("enhanced-pt-1" .
+   [5 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("?weighted-score" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("read-string" .
+   [0 0 0 0 0 0 2 0 1 0 1])
+  ("weighted-score" .
+   [0 0 1 0 0 1 4 0 0 2 0 0 0 0])
+  ("isna" .
+   [1 0 0 0])
+  ("?in-top-30-pct-g-score" .
+   [0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("?A" .
+   [2 0])
+  ("node-style" .
+   [1 0 0 0 0 0 0 1 0 0])
+  ("Node" .
+   [1 0 0 0])
+  ("r/adapt-react-class" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  (":background" .
+   [3 0 0 0 1 0 0 0 0 0 2])
+  (":background-color" .
+   [3 0 0 0 2 0 0 3 0 0 0 0 0 0 0 0 2])
+  (":style" .
+   [22 0 0 0 0 0])
+  ("panel" .
+   [1 0 0 0 0])
+  ("background" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("react-flow" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (":label" .
+   [11 0 0 0 0 0])
+  (":position" .
+   [1 0 0 0 1 3 0 0 1])
+  ("Panel" .
+   [2 0 0 0 0])
+  ("ReactFlow" .
+   [2 0 0 0 0 0 0 0 1])
+  (":color" .
+   [13 0 0 0 0 1])
+  ("Background" .
+   [2 0 0 1 0 0 1 0 0 0])
+  ("edges" .
+   [5 0 0 0 0])
+  ("nodes" .
+   [2 0 0 0 0])
+  ("create-canvas" .
+   [0 0 0 0 0 0 0 0 1 0 1 0 0])
+  (":variant" .
+   [8 0 0 0 1 0 0 0])
+  ("product-provenance" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":>" .
+   [8 0])
+  ("react-comp" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("provenance-canvas" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("default" .
+   [1 0 0 0 0 0 0])
+  ("canvas" .
+   [2 0 0 0 0 1])
+  (":from" .
+   [2 0 0 0 0])
+  (":text" .
+   [2 0 0 0 0])
+  ("Canvas" .
+   [2 0 0 0 0 0])
+  (":default" .
+   [3 0 0 0 0 0 0 0])
+  (":hash" .
+   [1 0 0 0 0])
+  (":row-count" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("credo-data.components" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("components" .
+   [3 0 0 0 0 0 0 0 0 0])
+  ("transformation-configuration" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("transformation" .
+   [1 0 0 1 1 1 2 0 1 0 0 0 0 5])
+  ("main" .
+   [3 0 0 0])
+  ("init!" .
+   [2 0 0 0 1])
+  ("credo-data.handlers" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("reagent" .
+   [1 0 0 0 0 0 0])
+  ("re-frame" .
+   [8 0 0 0 0 0 0 0])
+  ("r/atom" .
+   [5 0 1 1 0 1])
+  ("query-input" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("re-frame/dispatch-sync" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("vars" .
+   [5 0 0 0])
+  (":div" .
+   [25 0 0 0])
+  ("access-token" .
+   [2 0 0 0 0 0 3 9 1 0 0 0])
+  (":db" .
+   [7 0 0])
+  ("db" .
+   [29 0])
+  (":keys" .
+   [41 0 1 0 0])
+  (":site-auth-success" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("re-frame/reg-event-fx" .
+   [2 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  (":body" .
+   [5 0 0 0 0])
+  ("password" .
+   [1 0 0 0 0 0 0 0])
+  ("username" .
+   [1 0 0 0 0 0 0 0])
+  ("auth-header" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  (":headers" .
+   [1 0 0 0 0 0 0 0])
+  ("day8.re-frame/http-fx" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":mvn/version" .
+   [0 0 0 1 1 0 0 0 0 0 0 0])
+  ("'meander.match.epsilon/search" .
+   [0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("meander.match.epsilon" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("delete-all-transformations" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("graphql-request-fn" .
+   [3 0 0 2 5 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("graphql-request" .
+   [2 0 0 0 0 0 1 0 0 0 2 0 0 0 0])
+  ("step-prune-fol-ast" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("multiple-choice-answer-tag" .
+   [0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("MULTIPLE_CHOICE" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("single-choice-answer-tag" .
+   [0 0 0 0 2 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("answe" .
+   [1 0 0 0 0])
+  ("answer-tag" .
+   [1 0 0 0 2 1 0 0 0 1])
+  ("answer-multiple-choice" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("tag" .
+   [2 0 0])
+  ("choice" .
+   [1 0 0 0 0 0])
+  (":content" .
+   [0 0 0 0 1 0 0 0])
+  (":tag" .
+   [1 0 0 0])
+  ("answers" .
+   [1 0 0 0 0 0 0])
+  ("if" .
+   [54 0])
+  ("answer-single-choice" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0])
+  ("predicate" .
+   [1 0 0 0 0 0 0 0 0])
+  ("answer" .
+   [1 0 0 0 0 0])
+  ("constant" .
+   [1 0 0 0 0 0 0 0])
+  (":extra-deps" .
+   [0 0 0 0 0 1 0 0 0 1 0])
+  (":main-opts" .
+   [0 0 1 0 0 0 0 0 0 0])
+  ("body" .
+   [4 0 0 0])
+  ("path" .
+   [2 0 0 0])
+  (".toString" .
+   [0 0 0 1 0 0 0 0 0])
+  ("belongings" .
+   [1 0 0 0 0 1 0 0 0 0])
+  (":cargo" .
+   [1 0 0 0 0 0])
+  ("note" .
+   [1 0 0 0])
+  ("format-stock-check" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("Resources" .
+   [0 0 0 0 0 1 0 0 0])
+  ("ref" .
+   [1 0 0])
+  ("Tombaugh" .
+   [0 0 0 1 0 0 0 0])
+  (":xt/id" .
+   [6 0 0 2 1 0])
+  (":tombaugh-resources" .
+   [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("::xt/match" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (":units/CH4" .
+   [1 0 0 0 0 1 0 0 0 0])
+  (":xt-id" .
+   [0 0 0 0 1 0])
+  ("true" .
+   [92 0 0 0])
+  (":buyer?" .
+   [2 0 0 0 1 0 0])
+  ("false" .
+   [67 0 0 1 0])
+  (":seller?" .
+   [3 0 0 0 0 0 0 0])
+  (":blue-energy" .
+   [0 0 0 0 0 0 2 0 0 0 1 0])
+  ("commod" .
+   [1 0 0 0 0 0])
+  ("stock-check" .
+   [1 0 0 0 0 0 0 0 0 1 0])
+  (":as" .
+   [29 0 0])
+  ("company-id" .
+   [2 0 0 0 0 0 0 0 1 0])
+  ("item" .
+   [7 0 0 0])
+  ("funds" .
+   [3 0 0 0 0])
+  (":credits" .
+   [3 0 0 0 0 0 0 0])
+  (":company-name" .
+   [0 0 0 0 0 1 0 0 1 2 0 0 0])
+  (":cover-type" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  (":cover?" .
+   [1 0 0 0 0 0 0])
+  (":RJ29sUU" .
+   [0 0 0 0 0 1 0 0])
+  (":consumer-id" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("cover" .
+   [1 0 0 0 0])
+  ("#inst" .
+   [1 0 0 0 0])
+  (":in" .
+   [3 0 0])
+  ("IUPAC" .
+   [1 0 0 0 0])
+  (":IUPAC-name" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("appearance" .
+   [0 0 0 1 2 0 0 0 0 0])
+  (":appearance" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  (":id" .
+   [24 0 0])
+  ("return-names-of-metal-elements" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("rho" .
+   [1 0 0])
+  (":density" .
+   [1 0 0 0 0 0 0 0])
+  (":common-name" .
+   [3 0 0 0 0 0 0 0 2 0 0 0])
+  (":element/gas" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  (":where" .
+   [8 0 0 0 0 0])
+  (":find" .
+   [8 0 0 0 0])
+  ("xt/q" .
+   [18 0 0 0])
+  ("find-metal" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (":element/metal" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  (":type" .
+   [3 0 1 0 0])
+  ("element" .
+   [1 0 0 0 0 0 0])
+  (":manifest" .
+   [1 0 0 0 0 0 0 0 0])
+  ("xt/db" .
+   [10 0 0 0 0])
+  ("xt/entity" .
+   [1 0 0 0 0 0 0 0 0])
+  ("manifest" .
+   [2 0 0 0 1 0 0 0])
+  (":url" .
+   [1 0 0 0])
+  ("def" .
+   [67 0 0])
+  ("node" .
+   [31 0 0 0])
+  ("xt/submit-tx" .
+   [2 0 0 0 0 1 0 0 1 1 0 0])
+  ("docs" .
+   [1 0 0 0])
+  ("::xt/put" .
+   [5 0 0 0 0 0 0 0])
+  ("manifest-id" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("new-badge" .
+   [1 0 0 0 1 0 0 0 0])
+  ("add-new-badge" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("manifest-dajana" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("data" .
+   [8 0 0 0])
+  ("easy-ingest" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("json/write-value-as-string" .
+   [0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":query" .
+   [2 0 0 0 0 0])
+  (":operationName" .
+   [0 0 0 0 0 1 0 1 0 0 0 0 0 0])
+  ("nil" .
+   [51 0 0])
+  (".getBytes" .
+   [1 0 0 0 1 0 0 0 0])
+  ("json" .
+   [6 0 0 0])
+  ("query" .
+   [8 0 0 0 0])
+  ("response" .
+   [5 0 0 0 0 0 0 0])
+  ("q" .
+   [1])
+  ("person" .
+   [1 0 0 0 0 0])
+  ("post-query" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("args" .
+   [9 0 0 0])
+  ("pp/pprint" .
+   [0 0 0 0 0 0 0 1 0])
+  ("cache" .
+   [1 0 0 0 0])
+  (":deps" .
+   [2 0 0 0 0])
+  ("raw" .
+   [1 0 0])
+  ("lambda-result" .
+   [1 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("ensure-latest-schema" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("status" .
+   [1 0 0 0 0 0])
+  ("statusCode" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("#_" .
+   [214 0])
+  ("output" .
+   [2 0 1 0 0 0])
+  ("instance-answers" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("instance-answer" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("id" .
+   [7 0])
+  ("core" .
+   [2 0 0 0])
+  ("nyaya.invocation.core" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":site-valid-time" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  (":key" .
+   [6 0 0 0])
+  ("nyaya.frontend.app/init" .
+   [0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("site-auth-endpoint" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("remote-query" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("questionnaire-endpoint" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("default-db" .
+   [1 0 0 0 1 0 0 0 0 0])
+  (":initialize" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("dispatch-sync" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("blip-core" .
+   [1 0 0 0 0 0 0 0 0])
+  ("reagent.dom.client" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("reagent-mui.material.css-baseline" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  (":refer" .
+   [12 0 0 0 0 0])
+  ("css-baseline" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  (":transition" .
+   [0 0 0 0 1 3 0 0 0 0 2])
+  ("create" .
+   [3 0 0 0 0 0])
+  ("theme" .
+   [21 0 0 0 0])
+  ("#js" .
+   [7 0 0])
+  (":easing" .
+   [4 0 0 0 0 0 0])
+  (":transitions" .
+   [2 0 0 0 2 1 0 0 0 0 0 0])
+  (":duration" .
+   [3 0 0 0 0 1 1 0 0])
+  (":sharp" .
+   [1 0 0 0 0 0])
+  (":leaving-screen" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("sharp-easing" .
+   [0 0 0 0 1 0 1 0 0 0 0 0])
+  ("duration-leaving" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("duration-entering" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("styled-page" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("reagent-mui.styles" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  (":padding" .
+   [3 0 0 0 0 0 0 0])
+  ("clj->js" .
+   [0 0 0 2 0 0 0])
+  (":overflowX" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (":display" .
+   [12 0 0 0 1 0 1 4])
+  ("?theme" .
+   [2 0 0 0 0 0])
+  ("?pure-play-net-rev-pct" .
+   [0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("?climate-net-revenue-pct" .
+   [0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("is-uncg-compliant" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("has-theme" .
+   [1 0 0 0 0 0 0 0 0])
+  ("sector-scores" .
+   [0 0 0 1 0 0 0 2 0 0 0 0 1])
+  ("thresholds" .
+   [3 0 0 0 5 1 0 0 0 0])
+  (":main" .
+   [1 0 0 0 0])
+  ("colors/cyan" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("light?" .
+   [1 0 0 0 0 0])
+  ("popover" .
+   [2 0 0 0 0 0 0])
+  (":left" .
+   [2 0 0 0 0])
+  (":transform" .
+   [0 0 0 0 0 0 2 0 0 0])
+  (":vertical" .
+   [1 0 0 0 0 0 0 0 0])
+  (":horizontal" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("reset" .
+   [4 0 0 0 0])
+  ("event" .
+   [2 0 0 0 0])
+  ("-target" .
+   [2 0 0 0 0 0 0])
+  ("reagent-mui.material.alert" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("typography" .
+   [3 0 0 0 3 0 1 1 2 0])
+  ("button" .
+   [6 0 0 0 0 0])
+  (":step-5-&-eti" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("fi-sample-data" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  (":product-query-request-isin-no-graphql" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  (":query-product" .
+   [1 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  (":product-query-result" .
+   [1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("update" .
+   [8 0 0 0 0 0])
+  (":views/provenance" .
+   [2 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 6])
+  (":products" .
+   [5 0 0 0 0 0 0 0 0])
+  ("products" .
+   [7 0 0 0 0 0 0 0])
+  ("isin-table" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("products-query-result" .
+   [0 0 0 0 0 1 2 1 3 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("row-data" .
+   [1 0 0 1 2 0 1 0])
+  ("row-keys" .
+   [1 0 0 0 0 0 0 0])
+  ("product" .
+   [56 0 0 7 2 2 0])
+  ("data-key" .
+   [2 0 0 0 0 0 0 0])
+  ("table-row" .
+   [2 0 0 0 0 0 0 0 0])
+  (":actions" .
+   [2 0 0 0 0 0 0 0])
+  (":size" .
+   [4 0 0 0 0])
+  ("content-cell" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("table-cell" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("delete-forever" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  (":cursor" .
+   [2 0 0 0 0 0 1])
+  ("delete" .
+   [1 0 0 0 0 0])
+  (":text-align" .
+   [0 0 0 0 0 2 1 0 0 0 2])
+  ("close" .
+   [1 0 0 0 0])
+  ("new-products-list" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("no-product-for-isin" .
+   [0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0])
+  ("->" .
+   [4 0])
+  (":no-product-for-isin" .
+   [0 0 0 1 2 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("isin" .
+   [37 0 0 0])
+  (":no-product-for-isin?" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":else" .
+   [5 0 0 0 0])
+  ("search-on-empty-placeholder?" .
+   [1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("alerts" .
+   [1 0 0 0 0 0])
+  ("requested-isin" .
+   [0 0 0 0 0 0 0 0 0 1 3 0 0 1])
+  ("create-alert" .
+   [0 0 0 0 0 0 0 0 0 2 1 0])
+  ("alert-text" .
+   [0 0 0 0 0 0 0 0 1 0])
+  ("r" .
+   [2])
+  (":isin" .
+   [28 0 0 0 0])
+  ("request" .
+   [5 0 0 0 1 0 1])
+  (":duplicite-isin-request" .
+   [0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":duplicate-isin-request" .
+   [0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("duplicate-isin-request" .
+   [0 0 0 0 1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("selected-product-isin" .
+   [1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  (":delete-product" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  (":product" .
+   [2 0 0 0 1 0 0 0])
+  ("modal" .
+   [7 0 0 0 0])
+  ("do" .
+   [12 0])
+  ("opened-modal" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("box" .
+   [3 0 1])
+  ("div" .
+   [2 0 0])
+  ("graph-view" .
+   [0 0 0 0 0 1 1 3 0 1])
+  ("current-graph" .
+   [0 0 0 0 2 2 2 1 0 0 0 0 0])
+  ("canvas-style" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  (":top" .
+   [1 0 0 0])
+  (":views/portfolio-reports" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  (":portfolio-request-details" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  (":portfolio-response" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  (":portfolio-instance-response" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  (":clear-portfolio-reports" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("date-time" .
+   [1 0 0 0 0 0 0 0 0])
+  ("date" .
+   [1 0 0 0])
+  ("portfolio" .
+   [2 0 0 0 1 0 0 0 0])
+  ("option" .
+   [5 0 1 0 0 0])
+  (":li" .
+   [4 0 0])
+  (":right" .
+   [1 0 0 0 0 0])
+  ("or" .
+   [7 0])
+  ("and" .
+   [13 0 0])
+  ("a" .
+   [2])
+  ("bbg-data-available" .
+   [0 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("MSCI-issuer-has-issued" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("coal-exclusion-list" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("green-bond" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("sustainable-bond" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("social-bond" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("exclusion-list" .
+   [2 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("msci-data-available" .
+   [0 0 0 0 0 0 2 2 0 1 1 0 0 0 0 0 0 0 1])
+  ("t" .
+   [1])
+  ("esg-enhanced-for-reporting" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("not-assessed" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("reagent-mui.material.autocomplete" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  (":private" .
+   [3 0 0 0 0 0 0 0])
+  ("my-table-container" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("my-table-row" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("page-idx" .
+   [1 0 0 0 0 0 0 0])
+  (":filtered-items" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":category" .
+   [3 0 0 0 0 0 0 0 1])
+  ("sort-data" .
+   [3 0 0 0 0 0 0 0 0])
+  ("sorted-products" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0 0 1])
+  ("sorting-data" .
+   [1 0 0 0 0 0 0 1 1 0 0 0])
+  ("data-to-sort" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  (":order" .
+   [1 0 0 0 0 0])
+  ("category" .
+   [4 0 0 0 0 0 0 0])
+  ("order" .
+   [2 0 0 0 0])
+  (":name" .
+   [2 0 0 0 0])
+  ("re-frame/reg-sub" .
+   [0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0])
+  (":views/tables" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  (":items" .
+   [1 0 0 0 0 0])
+  (":table-data" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  (":table-rows" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  (":pagination" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  (":table-pagination" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  (":table-sorting" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":etiConfigurationFeed" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("WPB-fund-code" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("WPB-fund-code->isin" .
+   [2 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("in-pure-play" .
+   [0 0 0 0 0 2 0 2 0 0 0 0])
+  ("in-climate" .
+   [1 0 0 0 0 0 1 1 0 0])
+  ("pure-play-net-rev-pct" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("climate-net-revenue-pct" .
+   [0 0 0 0 0 2 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ungc" .
+   [3 0 0 0])
+  ("msci-sector" .
+   [0 0 0 2 0 1 1 0 0 0 2])
+  ("sector-bottom-5pct-value" .
+   [0 0 0 2 1 1 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("s-score" .
+   [0 0 1 1 1 0 0])
+  ("g-score" .
+   [0 0 0 1 1 1 0])
+  ("on-reco-list" .
+   [0 0 0 3 2 4 0 0 0 0 0 0])
+  ("isin-on-thermal-coal-cw-list" .
+   [0 0 1 0 0 0 0 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("esg-enhanced-in-any-last-3-q" .
+   [0 0 0 0 1 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("in-grcd-thematic-feeds" .
+   [0 0 0 0 0 3 3 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("on-thematic-focus-list" .
+   [0 0 0 1 0 4 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":theme" .
+   [2 0 0 0 0 0])
+  (":in-pure-play" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  (":in-climate" .
+   [0 0 0 0 0 0 0 1 1 0 0])
+  (":climate-net-revenue-pct" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("is-gr-climate-over-50pct-rev" .
+   [0 0 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":ungc" .
+   [2 0 0 0 0])
+  (":weighted-score" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  (":sector-bottom-5-pct-value" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  (":msci-sector" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  (":frequency" .
+   [10 0 0 0 5 1 0 0 0 0])
+  ("toggled-feed" .
+   [5 0 0 0 11 1 0 0 0 0 1 0])
+  ("selected-frequency" .
+   [0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 2])
+  ("Frequency" .
+   [0 0 0 4 0 0 0 0 0])
+  ("toggled-key" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("selected" .
+   [4 0 0 0 1 0 0 0])
+  ("current-frequency" .
+   [0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0])
+  ("graph-render/graph-modal" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("clojure.string" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("string" .
+   [1 0 0 0 0 0])
+  (":opened-transformaton-modal?" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0])
+  ("opened-graph?" .
+   [0 0 0 0 0 0 1 2 0 1 0 0 1])
+  ("opened-modal?" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("swap!" .
+   [0 0 0 0 1])
+  (":toggle-edit-transformation" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  (":views/transformation" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1])
+  (":views/transformations" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("screen-size" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  (":toggle-transformation-graph" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("identificator-value" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":transformation-id" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("node-type" .
+   [5 0 0 0 0 0 0 0 0])
+  (":node-type" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (":equal" .
+   [4 0 0 0 0 0])
+  (":second-or" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (":equal1" .
+   [1 0 0 0 0 0 0])
+  (":equal-1" .
+   [2 0 0 0 0 0 0 0])
+  (":isin-1" .
+   [1 0 0 0 0 0 0])
+  (":true" .
+   [1 0 0 0 0])
+  (":sust-entity-id" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  (":equal2" .
+   [1 0 0 0 0 0 0])
+  (":non-compliant" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  (":main-node" .
+   [2 0 0 0 0 0 1 0 0 0])
+  ("title" .
+   [1 0 0 0 0])
+  ("model-node-style" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  (":reset-collapse-classification-graph" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":industry-adjusted-score" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("industry-adjusted-score" .
+   [1 0 0 0 0 0 0 4 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("is-num?" .
+   [1 0 0 0 0 0 0])
+  ("distinct" .
+   [1 0 0 0 1 0 0 0])
+  ("xtdb.query" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("?isin" .
+   [10 0 0 0 0])
+  ("?e" .
+   [21 0])
+  (":nyayacfi/cfi" .
+   [0 0 0 0 1 0 3 0 0 0 0 0 0])
+  ("?cfi-code" .
+   [1 0 0 0 2 1 0 0 0])
+  ("acc" .
+   [4 0 0])
+  ("pull" .
+   [4 0 0 0])
+  (":provider" .
+   [5 0 0 0 1 1 1 0 0])
+  ("?provider" .
+   [1 0 0 0 0 1 1 0 0])
+  (":trucost/snp-company-id" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("?green-bond-loan-indicator" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("?trucost" .
+   [0 0 0 0 1 0 0 0])
+  ("or-join" .
+   [2 0 0 0 0 0 0])
+  ("has" .
+   [4 0 0])
+  ("hash-map" .
+   [0 0 0 0 0 1 0 0])
+  ("cfi" .
+   [3 0 0])
+  ("provider" .
+   [3 0 0 0 0 0 0 0])
+  ("..." .
+   [1 0 0])
+  ("issuer-id" .
+   [1 0 0 0 0 0 0 0 0])
+  ("asset-type" .
+   [0 0 0 0 0 1 0 1 0 0])
+  (":issuer-id" .
+   [0 0 0 0 0 0 0 1 0 0])
+  (":asset-type" .
+   [0 0 0 0 0 0 2 0 0 0 0])
+  (":smart-id" .
+   [1 0 0 0 0 0 0 0 0])
+  ("smart-product-lvl-1" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("smart-product-lvl-2" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("datalog/eq-scope-query" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nyaya.invocation.classification" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("reco-funds" .
+   [0 0 0 0 3 1 1 0 0 1])
+  ("sm-funds" .
+   [0 0 0 1 0 0 1 0])
+  ("ult-funds" .
+   [0 0 0 0 1 0 0 0 0])
+  ("wpb-fund" .
+   [0 0 0 0 0 0 0 1])
+  ("ms-funds" .
+   [0 0 0 0 0 0 0 1])
+  ("ms-holdings-knowns-as-funds" .
+   [0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cfi-funds" .
+   [0 0 0 0 1 0 0 0 0])
+  ("morningstar" .
+   [0 0 0 0 1 1 0 0 0 0 1])
+  ("all-funds" .
+   [2 0 0 0 0 0 0 0 0])
+  ("all-holdings" .
+   [1 0 0 0 1 0 0 0 0 0 0 0])
+  ("sm-feed" .
+   [1 0 0 0 0 0 1])
+  ("isin->cfi" .
+   [0 0 1 0 0 1 1 0 0])
+  ("join" .
+   [1 0 0 0])
+  ("morningstar-feed" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ultumus-feed-q" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("wpb-feed-q" .
+   [1 0 0 0 0 1 0 0 0 0])
+  ("reco-funds-q" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("sm-feed-q" .
+   [1 0 0 0 0 0 0 0 0])
+  (":fund-isin" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("ultumus" .
+   [0 0 0 0 1 0 0])
+  ("sm" .
+   [3 0])
+  ("cfi-fund" .
+   [1 0 0 0 0 0 0 0])
+  ("wpb" .
+   [2 0 0])
+  ("WPB-fund-code->isin-q" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  (":fund-code" .
+   [2 0 0 0 0 0 0 0 0 0])
+  (":identifier-value" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
+  ("fund-code" .
+   [3 0 0 0 0 0 1 0 0])
+  ("identifier-value" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("fund-isin" .
+   [1 0 0 0 0 4 0 0 0])
+  ("wpb-fund->isin" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("m" .
+   [2])
+  ("no" .
+   [5 0])
+  ("deftest" .
+   [2 0 0 0 0 0 0])
+  ("testing" .
+   [2 0 0 0 0 0 0])
+  ("lookthrough" .
+   [1 0 0 0 2 0 0 0 0 0 7])
+  ("is" .
+   [2 0])
+  ("wpb-with-isin" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("feed" .
+   [2 0 0 0])
+  ("provider-isins" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("morningstar-funds" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("which-src" .
+   [2 0 0 0 0 0 0 0 1])
+  ("which-source" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("ultumus-funds" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("wpb-funds" .
+   [1 0 0 0 0 0 0 0 0])
+  ("this-src" .
+   [1 0 0 0 0 1 0 0])
+  ("use-in-final-lookthrough?" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":routes/create-datasource" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("cofx" .
+   [7 0 0 0])
+  ("combine-event-fns" .
+   [0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0])
+  ("constantly" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("argument-values" .
+   [0 0 0 0 0 1 0 0 3 0 0 0 0 0 0])
+  ("limit" .
+   [8 0 0 0 0])
+  ("offset" .
+   [6 0 0 0 0 0])
+  (":result" .
+   [1 0 0 0 0 0 0])
+  (":argument-values" .
+   [0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0])
+  (":close-datasource-modal" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":opened?" .
+   [1 0 0 0 0 0 0 0])
+  ("write" .
+   [1 0 0 0 0])
+  ("tail-cut" .
+   [1 0 0 0 0 0 0 0])
+  ("hat" .
+   [2 0 0])
+  ("app.core/init" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("app.core" .
+   [0 0 0 0 1 0 0 0])
+  (":host" .
+   [1 0 0 0 0])
+  (":p" .
+   [9 0])
+  (":retrieved-catalogue" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":failed-to-retrieve-catalogue" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  (":catalogue" .
+   [2 0 0 0 0 0 0 1 0 0])
+  ("white" .
+   [1 0 1 0 0])
+  (":ul" .
+   [1 0 0])
+  (":a" .
+   [2 0])
+  ("description" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("picture" .
+   [2 0 0 0 0 0 0])
+  ("display" .
+   [0 0 0 0 0 0 1])
+  ("styled-components/button-position" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("styled-components/center-content" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("padding" .
+   [1 0 0 0 0 0 0])
+  ("pointer" .
+   [1 0 1 0 0 0 0])
+  (".option-content" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("p" .
+   [1])
+  ("inherit" .
+   [1 0 0 0 0 1 0])
+  (":span" .
+   [1 0 0 0 0])
+  (":" .
+   [2])
+  (":grid-area" .
+   [0 0 0 0 0 0 0 2 0 2])
+  (":grid-template-columns" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  (":img" .
+   [1 0 0 0])
+  (":src" .
+   [1 0 0 0])
+  (":text-decoration" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("failed-to-retrieve-tag-info?" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tag-scanned?" .
+   [0 0 0 0 0 0 2 2 0 0 0 0])
+  (":sku" .
+   [1 0 0 0])
+  ("product-details" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("product-details-from-catalogue" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("tag-details" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("center-content" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("build-state" .
+   [0 0 0 0 1 0 1 0 0 0 0])
+  ("shadow.build/config" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("assignable" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("all-products-options" .
+   [0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("us" .
+   [9 0])
+  ("j" .
+   [3])
+  ("js/console.debug" .
+   [0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0])
+  ("classes" .
+   [1 0 0 0 0 0 0])
+  ("--color-gray" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("--color-orange" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("none" .
+   [2 0 0 0])
+  ("#f8f8f8" .
+   [1 0 0 0 0 0 0])
+  (".preventDefault" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  (".react-select__option--is-selected" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("read-only?" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (":hideSelectedOptions" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("focus" .
+   [1 0 0 0 0])
+  (":styles" .
+   [1 0 0 0 0 0 0])
+  (":option" .
+   [1 0 0 0 0 0 0])
+  ("provided" .
+   [5 0 0 0 0 0 0 0])
+  ("state" .
+   [9 0 0 0 0])
+  ("js" .
+   [3 0])
+  (".." .
+   [3 0])
+  (".-isFocused" .
+   [2 0 0 0 1 0 0 0 0 0 0])
+  ("active" .
+   [1 0 0 0 0 0])
+  ("swap" .
+   [3 0 0 0])
+  ("selected-curves" .
+   [8 0 0 0 0 0 0 0 0 0 2 0 0 0 0])
+  (".-value" .
+   [4 0 0 0 0 0 0])
+  ("v" .
+   [1])
+  ("mapv" .
+   [1 0 0 0])
+  ("curve" .
+   [2 0 0 0 0])
+  ("curve-label" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("current-page" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("pages" .
+   [1 0 0 0 0])
+  ("page" .
+   [1 0 0 0])
+  ("page-id" .
+   [1 0 0 0 0 0 0])
+  ("current-page-ids" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":page-products" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("page-products" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":current-page" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("current-page-curves" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("-id" .
+   [1 0 0])
+  ("product-selector" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("defui" .
+   [5 0 0 0 0])
+  ("package" .
+   [1 0 0 1 0 0 0])
+  ("Select" .
+   [1 0 0 0 0 0])
+  (":add-curves" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("add-curves!" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  (":on-change" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("on-change" .
+   [2 0 0 0 0 0 0 0 0])
+  ("lsp-mode" .
+   [2 0 0 0 0 0 0 0])
+  ("lsp" .
+   [2 0 0])
+  ("modus-themes" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("modus-vivendi" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("column-labels" .
+   [1 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("header-class" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("header-name" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("ag-components/ag-dropdown-status-header-details" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ag-components/ag-dropdown-status-header" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("browser" .
+   [0 0 0 1 0 0 0])
+  ("broadcasted?" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  (".postMessage" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("broadcast-channel" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("async/put!" .
+   [0 0 0 0 0 0 2 0 0 0])
+  ("arg" .
+   [4 0 0])
+  ("async/chan" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("async/go-loop" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("debounce-chan" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":timeout" .
+   [2 0 0 0 0 0 0 0])
+  ("op-type" .
+   [1 0 0 0 0 0 0])
+  (":event" .
+   [3 0 0 0 0 0])
+  ("op-value" .
+   [4 0 0 0 0 0 0 0])
+  ("debounce-key" .
+   [1 0 0 0 0 0 0 2 1 0 1 0])
+  ("input-args" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("reduce-fn" .
+   [2 0 0 0 0 0 0 0 0])
+  ("async/<!" .
+   [1 0 0 0 0 0 0 0])
+  ("async/timeout" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("window-ms" .
+   [2 0 0 0 0 0 0 0 0])
+  ("init-fn" .
+   [2 0 0 0 0 0 0])
+  (":arg" .
+   [1 0 0 0])
+  (":dispatch-debounced" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":dispatch" .
+   [1 0 0 0 0 0 0 0 0])
+  ("instrument" .
+   [1 0 0 0 0 0 0 0 0 0])
+  (":dispatch-debounce" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  (":graphql/update-instruments" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("prefers" .
+   [0 0 0 1 0 0 0])
+  ("pressed" .
+   [0 0 0 0 1 0 0])
+  ("clojure.set/intersection" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("pressed-keys" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("mod-keys" .
+   [0 0 0 0 3 1 0 0])
+  ("last-mod-keys" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0])
+  (":group-ranges" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("ranges" .
+   [1 0 0 0 0 0])
+  ("group-ranges" .
+   [4 0 0 0 0 0 0 0 0 0 0 0])
+  ("start" .
+   [2 0 0 0 0])
+  ("table-coords" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("group-selections" .
+   [1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("selections" .
+   [3 0 0 0 0 0 0 0 0 0])
+  ("idx->selections" .
+   [0 0 0 3 1 0 0 0 0 0 0 0 0 0 0])
+  ("range-idx" .
+   [0 0 0 0 0 0 1 0 0])
+  ("range-idxs" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("cljs-pprint" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("group-idx" .
+   [0 0 0 0 1 1 0 0 0])
+  ("current-selections" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("api" .
+   [2 0 0])
+  (".getModel" .
+   [1 0 0 0 0 0 0 0 0])
+  ("coords-set" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("columns" .
+   [2 0 0 0 0 0 0])
+  ("rowNode" .
+   [1 0 0 0 0 0 0])
+  (".getRow" .
+   [1 0 0 0 0 0 0])
+  ("rowModel" .
+   [1 0 0 0 0 0 0 0])
+  ("row-id" .
+   [1 0 0 0 0 0])
+  (".getValue" .
+   [1 0 0 0 0 0 0 0 0])))

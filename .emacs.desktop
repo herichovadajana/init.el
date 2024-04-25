@@ -1,0 +1,55 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Nov  5 19:17:05 2022
+;; Desktop file format version 208
+;; Emacs version 28.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (25446 43169 546126 222000) (desktop . "208") "dajanah@DajanaDell" nil nil ((((minibuffer . t) (tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . light) (cursor-color . "black") (scroll-bar-foreground . "black") (tool-bar-lines . 0) (foreground-color . "unspecified-fg") (background-color . "unspecified-bg") (font . "tty") (height . 52) (width . 209) (modeline . t) (unsplittable) (menu-bar-lines . 0) (tab-bar-lines . 0) (fullscreen . maximized) (frameset--id . "8CFD-2671-188B-1C67") (frameset--mini t) (vertical-scroll-bars)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 2) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 2) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 209) (pixel-height . 51) (total-width . 209) (total-height . 51) (normal-height . 1.0) (normal-width . 1.0) (buffer "init.el" (selected . t) (hscroll . 0) (fringes 0 0 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 5949) (start . 5146))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '(#("windo" 0 5 (isearch-case-fold-search t isearch-regexp-function nil)) #("split-wi" 0 8 (isearch-case-fold-search t isearch-regexp-function nil)) #("diminish" 0 8 (isearch-regexp-function nil isearch-case-fold-search t)) #("elisp" 0 5 (isearch-regexp-function nil isearch-case-fold-search t)) #("boz" 0 3 (isearch-regexp-function nil isearch-case-fold-search t)) #("bozh" 0 4 (isearch-regexp-function nil isearch-case-fold-search t)) #("bo" 0 2 (isearch-regexp-function nil isearch-case-fold-search t)) #("boh" 0 3 (isearch-regexp-function nil isearch-case-fold-search t)) #("use-pa" 0 6 (isearch-regexp-function nil isearch-case-fold-search t)) #("require" 0 7 (isearch-regexp-function nil isearch-case-fold-search t)) #("v" 0 1 (isearch-regexp-function nil isearch-case-fold-search t))))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/init.el" "~/.bash_profile" "~/.bashrc" "~/.bash_profile" "~/.emacs.d/init.el" "~/.bash_profile" "~/.emacs.d/init.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/dajanah/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(abbrev-mode eldoc-mode global-auto-revert-mode whitespace-mode override-global-mode paredit-mode elisp-slime-nav-mode flycheck-mode company-mode hl-todo-mode super-save-mode diff-hl-mode which-key-mode rainbow-mode)
+  5949
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25446 43166 646955 200000) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/dajanah/.bash_profile"
+  ".bash_profile"
+  'sh-mode
+  '(abbrev-mode global-auto-revert-mode whitespace-mode override-global-mode flycheck-mode company-mode hl-todo-mode super-save-mode diff-hl-mode which-key-mode rainbow-mode)
+  39
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25446 42500 610781 614000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/dajanah/.bashrc"
+  ".bashrc"
+  'sh-mode
+  '(abbrev-mode global-auto-revert-mode whitespace-mode override-global-mode flycheck-mode company-mode hl-todo-mode super-save-mode diff-hl-mode which-key-mode)
+  113
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 25446 42499 575592 405000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+

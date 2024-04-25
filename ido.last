@@ -1,0 +1,470 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/dajanah/artis-works/artis-admin/" . "api/")
+ ("/home/dajanah/folio-webapp-new/folio-webapp/src/app/" . "worker/")
+ ("/home/dajanah/folio-webapp-new/folio-webapp/" . "public/")
+ ("/home/dajanah/folio-webapp-new/" . "folio-webapp/")
+ ("/home/dajanah/folio-webapp-new/folio-webapp/src/" . "app/")
+ ("/home/dajanah/.config/" . "nvim/")
+ ("/home/dajanah/.config/nvim/lua/user/" . "plugins/")
+ ("/home/dajanah/.config/nvim/lua/plugins/" . "configs/")
+ ("/home/dajanah/.config/nvim/lua/astronvim/" . "utils/")
+ ("/home/dajanah/.config/nvim/lua/" . "user/")
+ ("/home/dajanah/.config/nvim/" . "lua/")
+ ("/home/dajanah/artis-works/folio-webapp/test/" . "app/")
+ ("/home/dajanah/artis-works/" . "folio-webapp/")
+ ("/home/dajanah/artis-works/folio-webapp/src/" . "app/")
+ ("/home/dajanah/artis-works/folio-webapp/public/" . "css/")
+ ("/home/dajanah/artis-works/folio-webapp/" . "src/")
+ ("/home/dajanah/artis-works/folio-webapp/src/app/" . "events/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-terraform/modules/" . "platform/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-terraform/" . "modules/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/resources/public/" . "js/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/test/" . "phoebe/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/scan-api/resources/" . "public/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/scan-api/" . "resources/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/resources/" . "public/")
+ ("/home/dajanah/pink-panther-ltd/" . "pp-scan/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/src/main/" . "app/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/src/" . "main/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/" . "src/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/src/" . "phoebe/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/public/" . "js/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/" . "test/")
+ ("/home/dajanah/pink-panther-ltd/pp-scan/" . "pp-frontend/")
+ ("/home/dajanah/acme-app/public/" . "js/")
+ ("/home/dajanah/acme-app/src/main/acme/" . "frontend/")
+ ("/home/dajanah/acme-app/src/main/" . "acme/")
+ ("/home/dajanah/acme-app/src/" . "main/")
+ ("/home/dajanah/acme-app/" . "public/")
+ ("/home/dajanah/juxt/phoebe-philo/pp-frontend/src/main/" . "app/")
+ ("/home/dajanah/my-app/src/" . "app/")
+ ("/home/dajanah/my-app/" . "src/")
+ ("/home/dajanah/juxt/phoebe-philo/phoebephilo/" . "phoebephilo-frontend/")
+ ("/home/dajanah/juxt/phoebe-philo/frontend/src/" . "app/")
+ ("/home/dajanah/juxt/phoebe-philo/frontend/" . "src/")
+ ("/home/dajanah/juxt/phoebe-philo/my-app2/src/main/" . "app/")
+ ("/home/dajanah/juxt/phoebe-philo/pp-frontend/src/" . "main/")
+ ("/home/dajanah/juxt/phoebe-philo/pp-frontend/" . "src/")
+ ("/home/dajanah/juxt/phoebe-philo/pp-ui/src/main/" . "pp-ui/")
+ ("/home/dajanah/juxt/phoebe-philo/pp-ui/src/" . "main/")
+ ("/home/dajanah/juxt/phoebe-philo/pp-ui/" . "src/")
+ ("/home/dajanah/juxt/phoebe-philo/pp-scanner/src/" . "app/")
+ ("/home/dajanah/juxt/phoebe-philo/pp-scanner/" . "src/")
+ ("/home/dajanah/juxt/phoebe-philo/my-app2/src/" . "main/")
+ ("/home/dajanah/juxt/phoebe-philo/my-app2/" . "src/")
+ ("/home/dajanah/old-projects/nyaya/credo-data/src/main/credo_data/" . "graphs/")
+ ("/home/dajanah/juxt/phoebe-philo/" . "pink-panther-ltd/")
+ ("/home/dajanah/old-projects/nyaya/credo-data/src/main/" . "credo_data/")
+ ("/home/dajanah/old-projects/nyaya/credo-data/src/" . "main/")
+ ("/home/dajanah/old-projects/nyaya/credo-data/" . "src/")
+ ("/home/dajanah/old-projects/nyaya/" . "credo-api/")
+ ("/home/dajanah/old-projects/" . "nyaya/")
+ ("/home/dajanah/juxt/phoebe-philo/my-app/src/" . "app/")
+ ("/home/dajanah/juxt/phoebe-philo/my-app/" . "src/")
+ ("/home/dajanah/juxt/astro-website/src/assets/" . "people/")
+ ("/home/dajanah/juxt/astro-website/src/data/" . "people/")
+ ("/home/dajanah/juxt/astro-website/src/pages/" . "blog/")
+ ("/home/dajanah/juxt/astro-website/src/" . "assets/")
+ ("/home/dajanah/juxt/astro-website/" . "src/")
+ ("/home/dajanah/squiggle/test/" . "squiggle/")
+ ("/home/dajanah/development/chisel/src/" . "chisel/")
+ ("/home/dajanah/development/chisel/" . "src/")
+ ("/home/dajanah/development/" . "chisel/")
+ ("/home/dajanah/squiggle/src/squiggle/" . "examples/")
+ ("/home/dajanah/squiggle/src/" . "squiggle/")
+ ("/home/dajanah/squiggle/" . "src/")
+ ("/home/dajanah/squiggle/src/dajanah/" . "examples/")
+ ("/home/dajanah/nyaya/credo-pipeline/acquisition/resources/" . "native-agents-payloads/")
+ ("/home/dajanah/nyaya/pipeline-bugs/credo-pipeline/invocation/test/nyaya/" . "invocation/")
+ ("/home/dajanah/nyaya/pipeline-bugs/credo-pipeline/invocation/test/" . "nyaya/")
+ ("/home/dajanah/nyaya/pipeline-old/credo-pipeline/" . "invocation/")
+ ("/home/dajanah/nyaya/pipeline-old/" . "credo-pipeline/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/invocation/src/nyaya/invocation/" . "eqclass/")
+ ("/home/dajanah/nyaya/credo-pipeline/invocation/src/nyaya/invocation/" . "lookthrough/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/invocation/test/nyaya/invocation/" . "clojure/")
+ ("/home/dajanah/nyaya/test-csv/" . "enrichment-fi/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/invocation/test-resources/" . "ficlass/")
+ ("/home/dajanah/nyaya/credo-pipeline/invocation/test-resources/" . "eqclass/")
+ ("/home/dajanah/nyaya/credo-pipeline/invocation/test/nyaya/invocation/" . "clojure/")
+ ("/home/dajanah/nyaya/credo-api/src/nyaya/scorecards/api/esg/" . "scorecards/")
+ ("/home/dajanah/nyaya/credo-api/src/nyaya/scorecards/api/" . "v2/")
+ ("/home/dajanah/nyaya/credo-api/src/nyaya/scorecards/" . "api/")
+ ("/home/dajanah/nyaya/credo-api/resources/" . "public/")
+ ("/home/dajanah/nyaya/credo-api/src/nyaya/" . "scorecards/")
+ ("/home/dajanah/nyaya/credo-api/src/" . "nyaya/")
+ ("/home/dajanah/nyaya/credo-api/" . "src/")
+ ("/home/dajanah/nyaya/credo-kg/src/juxt/site/alpha/" . "graphql/")
+ ("/home/dajanah/nyaya/credo-kg/src/juxt/site/" . "alpha/")
+ ("/home/dajanah/nyaya/credo-kg/src/juxt/" . "site/")
+ ("/home/dajanah/nyaya/credo-kg/src/" . "juxt/")
+ ("/home/dajanah/nyaya/credo-kg/test/juxt/" . "site/")
+ ("/home/dajanah/nyaya/credo-kg/test/" . "juxt/")
+ ("/home/dajanah/nyaya/credo-kg/apis/graphql/models/" . "seed/")
+ ("/home/dajanah/nyaya/credo-kg/apis/graphql/" . "models/")
+ ("/home/dajanah/nyaya/credo-kg/apis/" . "graphql/")
+ ("/home/dajanah/nyaya/credo-kg/" . "apis/")
+ ("/home/dajanah/nyaya/lookthrough/MS/MS/" . "MS/")
+ ("/home/dajanah/nyaya/lookthrough/MS/" . "MS/")
+ ("/home/dajanah/nyaya/lookthrough/" . "MS/")
+ ("/home/dajanah/nyaya/test/credo-data/src/main/credo_data/" . "views/")
+ ("/home/dajanah/nyaya/test2/credo-pipeline/invocation/test/nyaya/" . "invocation/")
+ ("/home/dajanah/nyaya/test2/credo-pipeline/invocation/test/" . "nyaya/")
+ ("/home/dajanah/nyaya/test2/credo-pipeline/invocation/" . "test-resources/")
+ ("/home/dajanah/nyaya/test2/credo-pipeline/" . "invocation/")
+ ("/home/dajanah/nyaya/test2/" . "credo-pipeline/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/invocation/src/nyaya/" . "invocation/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/invocation/src/" . "nyaya/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/configuration/src/nyaya/" . "configuration/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/configuration/src/" . "nyaya/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/invocation/test/nyaya/" . "invocation/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/invocation/test/" . "nyaya/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/invocation/" . "test/")
+ ("/home/dajanah/nyaya/credo-data/src/main/credo_data/" . "views/")
+ ("/home/dajanah/nyaya/credo-data/public/" . "js/")
+ ("/home/dajanah/nyaya/credo-compiler/src/" . "credo/")
+ ("/home/dajanah/nyaya/credo-compiler/" . "src/")
+ ("/home/dajanah/nyaya/credo-data/src/main/nyaya/" . "frontend/")
+ ("/home/dajanah/nyaya/credo-data/src/main/" . "credo_data/")
+ ("/home/dajanah/nyaya/credo-data/src/" . "main/")
+ ("/home/dajanah/nyaya/credo-data/" . "src/")
+ ("/home/dajanah/nyaya/quickstart/src/main/" . "starter/")
+ ("/home/dajanah/nyaya/test/credo-data/src/main/nyaya/" . "frontend/")
+ ("/home/dajanah/nyaya/test/credo-data/src/main/" . "credo_data/")
+ ("/home/dajanah/nyaya/test/credo-data/src/" . "main/")
+ ("/home/dajanah/nyaya/test/credo-data/" . "src/")
+ ("/home/dajanah/nyaya/credo-pipeline/invocation/test/nyaya/" . "invocation/")
+ ("/home/dajanah/nyaya/credo-pipeline/invocation/test/" . "nyaya/")
+ ("/home/dajanah/nyaya/credo-pipeline/invocation/src/nyaya/" . "invocation/")
+ ("/home/dajanah/nyaya/credo-pipeline/invocation/src/" . "nyaya/")
+ ("/home/dajanah/nyaya/credo-pipeline/invocation/" . "test-resources/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/transform-creation/test/nyaya/" . "transformation_create/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/transform-creation/test/" . "nyaya/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/transform-creation/" . "test/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/acquisition/test/nyaya/" . "acquisition/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/acquisition/test/" . "nyaya/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/acquisition/" . "test/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/configuration/test/nyaya/" . "configuration/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/configuration/test/" . "nyaya/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/configuration/" . "src/")
+ ("/home/dajanah/nyaya/test/credo-schema/models/" . "seed/")
+ ("/home/" . "dajanah/")
+ ("/home/dajanah/juxt/site/src/juxt/site/" . "alpha/")
+ ("/home/dajanah/juxt/site/src/juxt/" . "site/")
+ ("/home/dajanah/juxt/site/src/" . "juxt/")
+ ("/home/dajanah/juxt/site/" . "src/")
+ ("/home/dajanah/juxt/" . "phoebe-philo/")
+ ("/home/dajanah/" . "artis-works/")
+ ("/home/dajanah/nyaya/credo-schema/test/" . "pro/")
+ ("/home/dajanah/nyaya/test/credo-schema/src/pro/juxt/" . "models/")
+ ("/home/dajanah/nyaya/test/credo-schema/test/pro/juxt/" . "models/")
+ ("/home/dajanah/nyaya/test/credo-schema/test/pro/" . "juxt/")
+ ("/home/dajanah/nyaya/test/credo-schema/test/" . "pro/")
+ ("/home/dajanah/nyaya/test/credo-schema/src/pro/" . "juxt/")
+ ("/home/dajanah/nyaya/test/credo-schema/src/" . "pro/")
+ ("/home/dajanah/nyaya/test/credo-schema/" . "src/")
+ ("/home/dajanah/nyaya/test/credo-pipeline/" . "invocation/")
+ ("/home/dajanah/nyaya/test/" . "credo-pipeline/")
+ ("/home/dajanah/nyaya/credo-schema/test/pro/juxt/" . "models/")
+ ("/home/dajanah/nyaya/credo-schema/src/pro/juxt/" . "models/")
+ ("/home/dajanah/nyaya/credo-schema/test/pro/" . "juxt/")
+ ("/home/dajanah/nyaya/credo-pipeline/transform-creation/src/nyaya/" . "transformation_create/")
+ ("/home/dajanah/nyaya/credo-pipeline/transform-creation/src/" . "nyaya/")
+ ("/home/dajanah/nyaya/credo-pipeline/transform-creation/test/nyaya/" . "transformation_create/")
+ ("/home/dajanah/nyaya/credo-pipeline/transform-creation/test/" . "nyaya/")
+ ("/home/dajanah/nyaya/credo-pipeline/transform-creation/" . "src/")
+ ("/home/dajanah/nyaya/credo-pipeline/configuration/test/nyaya/" . "configuration/")
+ ("/home/dajanah/nyaya/credo-pipeline/configuration/test/" . "nyaya/")
+ ("/home/dajanah/nyaya/credo-pipeline/configuration/src/nyaya/" . "configuration/")
+ ("/home/dajanah/nyaya/credo-pipeline/configuration/src/" . "nyaya/")
+ ("/home/dajanah/nyaya/credo-pipeline/configuration/" . "test/")
+ ("/home/dajanah/nyaya/credo-pipeline/acquisition/test/nyaya/" . "acquisition/")
+ ("/home/dajanah/nyaya/credo-pipeline/acquisition/test/" . "nyaya/")
+ ("/home/dajanah/nyaya/credo-pipeline/" . "acquisition/")
+ ("/home/dajanah/nyaya/credo-pipeline/acquisition/src/nyaya/" . "acquisition/")
+ ("/home/dajanah/nyaya/credo-pipeline/acquisition/src/" . "nyaya/")
+ ("/home/dajanah/nyaya/credo-pipeline/acquisition/" . "resources/")
+ ("/home/dajanah/nyaya/credo-schema/src/pro/" . "juxt/")
+ ("/home/dajanah/nyaya/credo-schema/src/" . "pro/")
+ ("/home/dajanah/nyaya/credo-schema/" . "src/")
+ ("/home/dajanah/nyaya/" . "credo-kg/")
+ ("/home/dajanah/nyaya/blip/test/" . "blip/")
+ ("/home/dajanah/nyaya/blip/src/" . "blip/")
+ ("/home/dajanah/nyaya/blip/" . "src/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/dajanah/artis-works/artis-admin/api/"
+ "/home/dajanah/artis-works/artis-admin/src/components/"
+ "/home/dajanah/artis-works/folio-webapp/src/app/"
+ "/home/dajanah/folio-webapp-new/folio-webapp/"
+ "/home/dajanah/folio-webapp-new/folio-webapp/src/app/worker/"
+ "/home/dajanah/folio-webapp-new/folio-webapp/src/app/"
+ "/home/dajanah/folio-webapp-new/folio-webapp/public/"
+ "/home/dajanah/folio-webapp-new/folio-webapp/src/styles/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/src/main/app/"
+ "/home/dajanah/artis-works/folio-webapp/src/app/events/"
+ "/home/dajanah/artis-works/folio-webapp/src/styles/"
+ "/home/dajanah/.emacs.d/"
+ "/home/dajanah/.config/nvim/"
+ "/home/dajanah/.config/nvim/lua/user/"
+ "/home/dajanah/.config/nvim/lua/user/plugins/"
+ "/home/dajanah/.config/nvim/lua/astronvim/"
+ "/home/dajanah/.config/nvim/lua/core/"
+ "/home/dajanah/.config/nvim/lua/plugins/"
+ "/home/dajanah/artis-works/folio-webapp/test/app/"
+ "/home/dajanah/development/chisel/src/chisel/"
+ "/home/dajanah/artis-works/folio-webapp/"
+ "/home/dajanah/artis-works/folio-webapp/public/css/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/src/phoebe/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/test/phoebe/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/scripts/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-terraform/modules/platform/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/resources/public/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/"
+ "/home/dajanah/terraform-test/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/resources/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/src/main/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/config/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/prod-resources/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/resources/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/public/"
+ "/home/dajanah/pink-panther-ltd/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/dev/"
+ "/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/public/"
+ "/home/dajanah/juxt/phoebe-philo/pp-scanner/src/app/"
+ "/home/dajanah/old-projects/nyaya/credo-data/src/main/credo_data/graphs/"
+ "/home/dajanah/juxt/phoebe-philo/phoebephilo/phoebephilo-backend/src/phoebe/"
+ "/home/dajanah/juxt/phoebe-philo/phoebephilo/phoebephilo-backend/"
+ "/home/dajanah/juxt/phoebe-philo/pp-frontend/src/main/app/"
+ "/home/dajanah/juxt/phoebe-philo/pp-frontend/public/"
+ "/home/dajanah/juxt/phoebe-philo/pp-frontend/"
+ "/home/dajanah/acme-app/"
+ "/home/dajanah/acme-app/public/"
+ "/home/dajanah/acme-app/src/main/acme/frontend/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "block-user.mts"
+ "snackbar.tsx"
+ "subs.cljs"
+ "shadow-cljs.edn"
+ "deps.edn"
+ "core.cljs"
+ "index.html"
+ "common.cljs"
+ "main.scss"
+ "db.cljs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/dajanah/artis-works/artis-admin/api/" (26007 61994 237887 307000) "./" "block-user.mts" "../" "reset-mfa.mts" "mutate-user.mts" "common.ts")
+
+ ("/home/dajanah/artis-works/artis-admin/" (26007 63406 975792 375000) "index.html" "public/" ".netlify/" "./" "api/" "codegen.ts" "src/" "favicon.svg" ".gitignore" "schema.graphql" "../" "partykit.json" "bun.lockb" "yarn.lock" "netlify.toml" "package.json" ".git/" "tsconfig.json" ".prettierrc.ts" "tests/" ".prettierignore" "package-lock.json" ".husky/" ".eslintignore" "hasura.env" ".commitlintrc" "node_modules/" ".partykit/" "bin/" ".vscode/" "vite.config.ts" "tsconfig.node.json" ".eslintrc.cjs")
+
+ ("/home/dajanah/artis-works/artis-admin/src/" (26007 61866 82384 327000) "App.tsx" "./" "store.ts" "graphqlClient.ts" "server/" "typescript.svg" "components/" "reset.d.ts" "schema.graphql" "gql/" "router.tsx" "tableUtils.ts" "vite-env.d.ts" "../" "schema-introspection.json" "style.css" "utils.ts" "main.tsx" "sharedStyle.ts" "hooks/" "globals.ts")
+
+ ("/home/dajanah/artis-works/artis-admin/src/components/" (26011 4458 86621 892000) "Nav.tsx" "UrqlAllStates.tsx" "./" "Packages.tsx" "Link.tsx" "StoreProvider.tsx" "AllOrgs.tsx" "Permissions.tsx" "Table.tsx" "../" "User.tsx" "Form.tsx" "Home.tsx" "MockAgGridDebugging.tsx" "Users.tsx" "Auth.tsx" "Dashboard.tsx" "FloatingSave.tsx" "MultiSelectAgGridEditor.tsx" "snackbar.tsx")
+
+ ("/home/dajanah/artis-works/folio-webapp/src/app/" (25956 26107 776458 288000) "subs.cljs" "components2.cljs" "worker/" "./" "utils.cljs" "ag_grid_components.cljs" "hooks.cljs" "views.cljs" "graphql.cljs" "components/" "range_selection.cljs" "global_messages.cljs" "sessions.cljs" "channel_status.cljs" "help.cljs" "add_page_products.cljs" "arco.cljs" "excel_settings.cljs" "data.cljs" "routes.cljs" "utils/" "licensing.cljs" "cache.cljs" "calculations.cljs" "../" "spreader.cljs" "manage_validation.cljs" "effects.cljs" "events/" "query_keys.cljs" "codec.cljs" "admin_graphql.cljs" "manage_handlers.cljs" "common.cljs" "numbers.cljs" "products_logic.cljs" "logging.cljs" "conditional_formatter.cljs" "grid_settings_view.cljs" "graphs.cljs" "hooks_utils.cljs" "navigation.cljs" "manage_ag_grid.cljs" "components.cljs" "core.cljs" "manage.cljs" "graphql/" "brent.cljs" "dom_listeners.cljs" "preload.cljs" "excel/" "hooks/" "db.cljs" "cell_highlighter.cljs" "keydown_events.cljs" "events.cljs" "globals.cljs" "help_pages/")
+
+ ("/home/dajanah/folio-webapp-new/folio-webapp/src/app/worker/" (25855 7502 220224 580000) "./" "../" "core.cljs")
+
+ ("/home/dajanah/folio-webapp-new/folio-webapp/src/app/" (25858 41256 405286 381000) "subs.cljs" "components2.cljs" "worker/" "./" "utils.cljs" "ag_grid_components.cljs" "hooks.cljs" "audit.cljs" "views.cljs" "graphql.cljs" "components/" "global_messages.cljs" "channel_status.cljs" "help.cljs" "arco.cljs" "excel_settings.cljs" "data.cljs" "routes.cljs" "utils/" "licensing.cljs" "cache.cljs" "calculations.cljs" "../" "spreader.cljs" "manage_validation.cljs" "effects.cljs" "events/" "query_keys.cljs" "codec.cljs" "admin_graphql.cljs" "manage_handlers.cljs" "common.cljs" "users.cljs" "numbers.cljs" "products_logic.cljs" "logging.cljs" "conditional_formatter.cljs" "grid_settings_view.cljs" "graphs.cljs" "hooks_utils.cljs" "navigation.cljs" "manage_ag_grid.cljs" "components.cljs" "core.cljs" "manage.cljs" "graphql/" "brent.cljs" "dom_listeners.cljs" "preload.cljs" "excel/" "hooks/" "table.cljs" "db.cljs" "cell_highlighter.cljs" "keydown_events.cljs" "events.cljs" "globals.cljs" "help_pages/")
+
+ ("/home/dajanah/folio-webapp-new/folio-webapp/public/" (25857 46840 779432 878000) "index.html" "./" "external/" "js/" "../" "css/" "_redirects" "manifest.json" "img/" "addin/")
+
+ ("/home/dajanah/folio-webapp-new/folio-webapp/src/styles/" (25857 58957 911857 604000) "_custom-style.scss" "./" "../" "main.scss" "foundation/" "custom-style/")
+
+ ("/home/dajanah/folio-webapp-new/folio-webapp/" (25857 47013 447844 162000) "public/" "test/" "./" "api/" "calculations/" ".editorconfig" "deps.edn" "ssl/" ".lsp/" "src/" "patches/" ".gitpod.yml" ".lighthouserc.js" ".gitignore" "README.md" "packages/" "ui-testing/" "shadow-cljs.edn" "../" "FRONTEND.md" "auth0/" "add-shortcut-deploy-link.clj" ".gitmodules" "yarn.lock" "rollup.config.js" "netlify.toml" "package.json" ".sassrc" ".git/" ".stylelintrc.json" ".cpcache/" ".husky/" "puppeteer_auth.js" ".shadow-cljs/" "grid.json" "node_modules/" "karma.conf.js" ".prettierrc.json" ".nrepl-port" "bin/" "test-output/" ".clj-kondo/" ".github/")
+
+ ("/home/dajanah/juxt/phoebe-philo/pp-scanner/src/app/" (25764 5065 738471 982000) "./" "hooks.cljs" "handlers.cljs" "../" "core.css" "core.cljs")
+
+ ("/home/dajanah/artis-works/folio-webapp/test/app/" (25855 8721 683268 482000) "upsert_instrument_col_test.cljs" "test/" "products_logic_test.cljs" "channel_status_test.cljs" "worker/" "./" "core_test.cljs" "manage_handlers_test.cljs" "hybrid_broadcast_test.cljs" "../" "common_test.cljs" "arco_test.cljs")
+
+ ("/home/dajanah/.config/nvim/" (25852 62544 410165 305000) "./" "config.ld" "autoload/" "init.lua" "lazy-lock.json" ".stylua.toml" ".gitignore" ".styluaignore" ".neoconf.json" "LICENSE" "neovide_backtraces.log" "../" "lua/" ".git/" ".typos.toml" ".github/" ".luacheckrc")
+
+ ("/home/dajanah/.emacs.d/" (25857 46990 588050 546000) ".lsp-session-v1" "./" "sudo-save.el" "var/" "README.md" "dajanah-theme.el" "%backup%~" "savefile/" "init.el~" "../" "ido.last" "auto-save-list/" ".cache/" ".git/" ".emacs.desktop" "tramp" "eshell/" "init.el" "elpa/" "ac-comphist.dat" "transient/")
+
+ ("/home/dajanah/artis-works/folio-webapp/src/styles/" (25857 40186 197145 978000) "_custom-style.scss" "./" "../" "main.scss" "foundation/" "custom-style/")
+
+ ("/home/dajanah/" (25857 46987 148081 694000) ".zoom/" "keybase-bin/" ".fzf.bash" ".wget-hsts" ".terraform.d/" "packer.nvim/" "acme-app/" ".gitconfig" "tmp/" "./" "spidey16.mp4" "snapd/" ".gtkrc-2.0" "touch/" "spidey13.mp4" ".m2/" ".lein/" "spidey17.mp4" ".clojure_history-02621.tmp" ".clojure_history-40903.tmp" ".bash_logout" "imprimatur/" ".config/" "old-clojure/" ".deps.clj/" ".zshrc.zni" "pink-panther-ltd/" "old-projects/" ".Xauthority" "install" "NvChad/" ".clojure_history-01761.tmp" ".clojure_history-05181.tmp" "todos/" "juxt/" "slack-desktop/" ".clojure_history-02069.tmp" "terraform-test/" ".fzf/" "Desktop/" "my-app/" ".clojure_history-42774.tmp" ".yarn/" ".tmux/" ".emacs.d/" "Pictures/" ".lesshst" "artis-works/" ".clojure_history-61689.tmp" ".wine/" "Music/" "neovide_backtraces.log" ".local/" "clojure-lsp-bin/" ".aws/" ".clojure_history-75750.tmp" ".bash_profile" ".spacemacs" "../" "site/" "BRF/" ".tmux.conf" "spidey12.mp4" "spidey15.mp4" ".zcompdump-DajanaDell-5.9" ".cljs/" "myhtml.html" "spidey10.mp4" "squiggle/" "svgo-bin/" "yarn.lock" ".zsh_history" ".icons/" ".password-store/" "yay-git/" ".fzf.zsh" "openrgb/" "CAD/" ".cache/" ".w3m/" ".ncat_history" ".shell.pre-oh-my-zsh" ".snap/" ".clojure/" ".clojure_history-01729.tmp" "Templates/" ".pki/" "24778" "spidey14.mp4" ".aws-sam/" "old-emacs/" "spidey20.mp4" "ducks.jpg" ".gnupg/" "dev/" "snap/" ".spacemacs.env" "Public/" ".ssh/" ".gitlibs/" "Documents/" ".npm/" ".bashrc" ".zcompdump-DajanaDell-5.9.zwc" "development/" "tmux-client-11897.log" ".clojure_history" "boarding-passes.pdf" "spidey11.mp4" ".authinfo" "node_modules/" ".clojure_history-02250.tmp" "backup/" ".yarnrc" ".bash_history" ".clojure_history-05438.tmp" "emacs-custom-settings.el" "projects/" ".zshrc" "tspd.cljs" ".clojure_history-62172.tmp" ".clojure_history-18436.tmp" "scripts/" ".zshrc.pre-oh-my-zsh" ".fonts.conf" ".docker/" "my-app2/" "Downloads/" "folio-webapp-new/" "personal-projects/" ".oh-my-zsh/" "terraform-test.zip" "Videos/")
+
+ ("/home/dajanah/folio-webapp-new/" (25855 7991 567442 897000) "./" "calculations/" "folio-webapp/" "../")
+
+ ("/home/dajanah/folio-webapp-new/folio-webapp/src/" (25855 7502 220224 580000) "./" "styles/" "shadow_git_inject/" "app/" "../")
+
+ ("/home/dajanah/old-projects/" (25725 34886 623456 275000) "./" "old/" "nyaya/" "nyaya-testing/" "../" "credo-frontend/")
+
+ ("/home/dajanah/artis-works/folio-webapp/src/app/components/" (25838 65252 98160 114000) "./" "../" "product_form.cljs" "manage.cljs")
+
+ ("/home/dajanah/artis-works/folio-webapp/" (25855 8721 679935 187000) "public/" "test/" "./" "api/" "calculations/" ".editorconfig" "deps.edn" "ssl/" ".lsp/" "src/" "patches/" ".gitpod.yml" ".lighthouserc.js" ".gitignore" "README.md" "packages/" "ui-testing/" "shadow-cljs.edn" "../" "FRONTEND.md" "auth0/" "add-shortcut-deploy-link.clj" ".gitmodules" "yarn.lock" "rollup.config.js" "netlify.toml" "package.json" ".sassrc" ".git/" ".stylelintrc.json" ".cpcache/" ".husky/" "puppeteer_auth.js" ".shadow-cljs/" "grid.json" "node_modules/" "karma.conf.js" ".prettierrc.json" ".nrepl-port" "bin/" "test-output/" ".clj-kondo/" ".github/")
+
+ ("/home/dajanah/.config/nvim/lua/user/" (25852 60661 379267 233000) "highlights/" "./" "mappings.lua" "init.lua" "tool-config/" "options.lua" ".stylua.toml" "README.md" "CHANGELOG.md" "../" ".git/" "plugins/" "snippets/")
+
+ ("/home/dajanah/.config/" (25852 57887 907934 376000) "cef_user_data/" "yay/" "gtk-4.0/" "discoverrc" "user-dirs.locale" "kgammarc" "nextjs-nodejs/" "plasma-nm" "device_automounter_kcmrc" "./" "kded5rc" "powermanagementprofilesrc" "astronvim/" "akregatorrc" "Keybase/" "sddmthemeinstallerrc" "ksmserverrc" "flameshot/" "astro/" "kfontinstuirc" "nautilus/" "kwinrulesrc" "autostart/" "kxkbrc" "gtk-2.0/" "kconf_updaterc" "clojure/" "plasma-org.kde.plasma.desktop-appletsrc" "kactivitymanagerdrc" "nvim/" "dconf/" "systemsettingsrc" "user-dirs.dirs" "flameshotrc" "gtkrc-2.0" "procps/" "OpenSCAD/" "PrusaSlicer/" "gtkrc" "fontconfig/" "kglobalshortcutsrc" "konsolesshconfig" "solaar/" "powerdevilrc" "thefuck/" "../" "site/" "menus/" "Docker Desktop/" "zoom.conf" "kmenueditrc" "konsolerc" "kinfocenterrc" "plasmanotifyrc" "kwinrc" "bluedevilglobalrc" "Slack/" "kcmfonts" "GIMP/" "drkonqirc" "plasma-localerc" "zoomus.conf" "falkonrc" "kcminputrc" "session/" "vokoscreenNG/" "falkon/" "plasmashellrc" "Modern CSV/" "khotkeysrc" "keybase/" "kwalletrc" "kde.org/" "kmixrc" "xsettingsd/" "QtProject.conf" "gtk-3.0/" "mimeapps.list" "keditfiletyperc" "plasmawindowed-appletsrc" "libaccounts-glib/" "ktimezonedrc" "kdeglobals" "krunnerrc" "google-chrome/" "pulse/" "Trolltech.conf" "kateschemarc" "trizen/" "systemmonitorrc" "plasmarc" "kactivitymanagerd-statsrc" "OpenSCADrc" "plasmawindowedrc" "kscreenlockerrc" "baloofilerc" "kdedefaults/" "trashrc" "KDE/")
+
+ ("/home/dajanah/old-projects/nyaya/credo-data/src/main/credo_data/" (25721 55916 459508 602000) "./" "sample_data/" "handlers.cljs" "slurp.clj" "graphs/" "csv_inference.cljs" "routes.cljs" "../" "views/" "components.cljs" "core.cljs" "cfi.cljs")
+
+ ("/home/dajanah/juxt/phoebe-philo/pp-scanner/" (25763 56262 561958 132000) "public/" "./" "deps.edn" "ssl/" "src/" ".gitignore" "README.md" ".tool-versions" "shadow-cljs.edn" "../" "key.pem" "LICENSE.md" "yarn.lock" "package.json" ".cpcache/" "package-lock.json" "dev/" ".shadow-cljs/" "cert.pem" "node_modules/" ".clj-kondo/")
+
+ ("/home/dajanah/development/chisel/src/chisel/" (25851 38400 346222 484000) "./" "aero.cljc" "gcode_utils.cljc" "open_scad.clj" "conic_sections.cljc" "examples.cljc" "gcode_commands.cljc" "open_scad_utils.cljc" "../" "protocols.cljc" "gcode_layers.cljc" "coordinates.cljc" "curves.cljc" "stl.clj" "gcode.cljc" "utils.cljc" "hull_utils.cljc")
+
+ ("/home/dajanah/.config/nvim/lua/user/plugins/" (25851 38742 790876 103000) "themes.lua" "./" "telescope.lua" "git.lua" "community.lua" "treesitter.lua" "../" "null-ls.lua" "mason.lua" "user.lua" "core.lua")
+
+ ("/home/dajanah/.config/nvim/lua/plugins/configs/" (25851 38721 25167 815000) "./" "alpha.lua" "nvim-dap-ui.lua" "telescope.lua" "cmp-dap.lua" "which-key.lua" "lspkind.lua" "nvim-treesitter.lua" "guess-indent.lua" "../" "heirline.lua" "notify.lua" "mason.lua" "nvim-web-devicons.lua" "mason-null-ls.lua" "mason-nvim-dap.lua" "nvim-autopairs.lua" "lspconfig.lua" "mason-lspconfig.lua" "luasnip.lua")
+
+ ("/home/dajanah/.config/nvim/lua/plugins/" (25851 38721 25167 815000) "./" "alpha.lua" "telescope.lua" "configs/" "git.lua" "lsp.lua" "neo-tree.lua" "treesitter.lua" "../" "dap.lua" "heirline.lua" "mason.lua" "cmp.lua" "core.lua" "ui.lua")
+
+ ("/home/dajanah/.config/nvim/lua/astronvim/utils/" (25851 38721 25167 815000) "./" "init.lua" "status.lua" "git.lua" "lsp.lua" "../" "updater.lua" "mason.lua" "buffer.lua" "status/" "ffi.lua" "ui.lua")
+
+ ("/home/dajanah/.config/nvim/lua/astronvim/" (25851 38721 25167 815000) "./" "autocmds.lua" "mappings.lua" "icons/" "options.lua" "bootstrap.lua" "utils/" "../" "health.lua" "lazy.lua")
+
+ ("/home/dajanah/.config/nvim/lua/" (25851 38742 137596 304000) "./" "astronvim/" "user/" "resession/" "../" "lazy_snapshot.lua" "plugins/")
+
+ ("/home/dajanah/.config/nvim/lua/core/" (25851 30521 343927 466000) "./" "mappings.lua" "init.lua" "bootstrap.lua" "../" "utils.lua" "default_config.lua")
+
+ ("/home/dajanah/artis-works/folio-webapp/test/" (25838 65252 101493 423000) "./" "app/" "../")
+
+ ("/home/dajanah/development/chisel/" (25850 50592 75927 449000) "target/" "test/" "./" "stl/" ".lsp/" "src/" "project.clj" ".gitignore" "README.md" "CHANGELOG.md" "doc/" "test.gcode" "LICENSE" "../" ".lein-repl-history" ".git/" "emacs-custom-settings.el" ".clj-kondo/")
+
+ ("/home/dajanah/artis-works/" (25839 1064 260025 239000) "./" "folio-admin-console/" "calculations/" "folio-webapp/" "../")
+
+ ("/home/dajanah/development/chisel/src/" (25659 49757 346742 360000) "./" "../" "chisel/")
+
+ ("/home/dajanah/development/" (25659 49746 432710 176000) "./" "../" "chisel/")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/" (25819 52336 413236 922000) "public/" "./" "deps.edn" "src/" "README.md" ".tool-versions" "shadow-cljs.edn" "../" "LICENSE.md" "yarn.lock" "package.json" ".cpcache/" "package-lock.json" ".shadow-cljs/" "node_modules/" "config/")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/resources/" (25819 18633 255483 607000) "public/" "./" "catalogue.csv" "tags.csv" "../")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/src/main/app/" (25830 3897 61694 595000) "./" "handlers.cljs" "login.cljs" "../" "home.cljs" "config.cljc" "core.cljs")
+
+ ("/home/dajanah/terraform-test/" (25827 28706 216802 107000) "./" "new.html" "terraform.tfstate.backup" ".terraform.lock.hcl" "auth0.tf" ".terraform/" "../" "last.html" "universal_login_body.html" "terraform.tfstate")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/" (25838 65196 841913 864000) "test/" "./" "deps.edn" "src/" "README.md" "docker_build.sh" "../" "resources/" ".cpcache/" "dev/" "Dockerfile" "config.edn" "scripts/")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/resources/public/" (25819 18633 468815 815000) "index.html" "AV27-LE0097-712GB.png" "./" "dd-AM77-LE0233-831ES.png" "AB03-LT0010-100WT-OS.png" "AM81-LE0234-819DB.png" "dd-AB03-LT0010-100WT-OS.png" "BM34-LE1096-900BK.png" "BV62-LE1096-900BK.png" "AB10-LT0021-306CN-OS.png" "dd-BV52-LE2018-900BK.png" "dd-AV27-LE0097-712GB.png" "js/" "dd-AB10-LT0021-306CN-OS.png" "../" "BV52-LE2018-900BK.png" "dd-AS13-LT0017-311PK.png" "AS13-LT0017-311PK.png" "dd-AV27-LE0097-900BK.png" "main.css" "AM77-LE0233-831ES.png" "dd-BM34-LE1096-900BK.png" "dd-AM81-LE0234-819DB.png" "AV27-LE0097-900BK.png" "dd-BV62-LE1096-900BK.png")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-terraform/modules/platform/" (25828 25480 363044 913000) "config.tf" "canary.tf" "./" "dash-body.json" "dashboard.tf" "canaries/" "tasks/" "aws-chat.tf" "auth0.tf" "../" "api.tf" "tables.tf" "iam.tf" "variables.tf")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/test/phoebe/" (25820 31356 921060 375000) "./" "../" "decryption_test.clj" "core_test.clj")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/src/phoebe/" (25827 28851 916202 875000) "./" "core.clj" "config.clj" "handler.clj" "decryption.clj" "../")
+
+ ("/home/dajanah/artis-works/folio-webapp/src/app/events/" (25844 55387 415524 907000) "products.cljs" "./" "channel_status.cljs" "admin.cljs" "../" "fork.cljs" "local_style.cljs" "manage.cljs" "excel.cljs")
+
+ ("/home/dajanah/artis-works/folio-webapp/public/external/" (25838 65252 84826 883000) "./" "../" "react-datepicker.css")
+
+ ("/home/dajanah/artis-works/folio-webapp/public/css/" (25839 4214 793030 76000) "./" "main.css.map" "../" "main.css")
+
+ ("/home/dajanah/artis-works/folio-webapp/public/" (25839 4214 789696 738000) "index.html" "./" "external/" "js/" "../" "css/" "_redirects" "manifest.json" "img/")
+
+ ("/home/dajanah/artis-works/folio-webapp/src/app/worker/" (25838 65252 101493 423000) "./" "../" "core.cljs")
+
+ ("/home/dajanah/artis-works/folio-webapp/src/" (25838 65252 101493 423000) "./" "styles/" "shadow_git_inject/" "app/" "../")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-terraform/modules/" (25791 58266 784603 383000) "./" "platform/" "../")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-terraform/" (25810 33662 762568 741000) "environments/" "./" "README.md" "../" "modules/")
+
+ ("/home/" (25446 26934 622139 751000) "./" "../" "dajanah/")
+
+ ("/home/dajanah/tmp/" (25721 44269 765677 371000) "SSLErrorAssistant/" "ClientSidePhishing/" "hyphen-data/" "FirstPartySetsPreloaded/" "./" "Local State" "Consent To Send Stats" "First Run" "SingletonSocket" "Default/" "OnDeviceHeadSuggestModel/" "WidevineCdm/" "BrowserMetrics/" "Variations" "FileTypePolicies/" "ZxcvbnData/" "NativeMessagingHosts/" "DesktopSharingHub/" "Last Version" "OptimizationHints/" "Dictionaries/" "../" "UrlParamClassifications/" "Safe Browsing/" "pnacl/" "ShaderCache/" "Crowd Deny/" "PKIMetadata/" "SingletonCookie" "PnaclTranslationCache/" "BrowserMetrics-spare.pma" "MEIPreload/" "SafetyTips/" "OriginTrials/" "SingletonLock" "Subresource Filter/" "AutofillStates/" "GrShaderCache/" "CertificateRevocation/" "CrashpadMetrics-active.pma")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/resources/public/js/" (25777 12379 504405 642000) "./" "main.js" "../" "manifest.edn" "cljs-runtime/")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/dev/" (25808 64676 894726 439000) "./" "user.clj" "../" "logback.xml")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/public/" (25818 31975 429176 132000) "index.html" "AV27-LE0097-712GB.png" "./" "dd-AM77-LE0233-831ES.png" "AB03-LT0010-100WT-OS.png" "AM81-LE0234-819DB.png" "dd-AB03-LT0010-100WT-OS.png" "BM34-LE1096-900BK.png" "BV62-LE1096-900BK.png" "AB10-LT0021-306CN-OS.png" "dd-BV52-LE2018-900BK.png" "dd-AV27-LE0097-712GB.png" "js/" "svg-pictures/" "dd-AB10-LT0021-306CN-OS.png" "../" "BV52-LE2018-900BK.png" "dd-AS13-LT0017-311PK.png" "AS13-LT0017-311PK.png" "dd-AV27-LE0097-900BK.png" "main.css" "AM77-LE0233-831ES.png" "dd-BM34-LE1096-900BK.png" "dd-AM81-LE0234-819DB.png" "AV27-LE0097-900BK.png" "dd-BV62-LE1096-900BK.png")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/config/" (25810 33662 732568 539000) "./" "../" "config.edn")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/src/main/" (25818 31965 838540 662000) "./" "app/" "../" "config_build_hook.clj")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/scripts/" (25812 52814 189529 849000) "./" "put_catalogue.clj" "logging.properties" "../" "delete_table_contents.clj" "logback.xml" "put_tag_csv.clj")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/" (25810 33662 732568 539000) "pp-terraform/" "./" "pp-scan-api/" ".gitignore" "pp-frontend/" "README.md" "compile_fe.sh" "../" ".git/" ".github/")
+
+ ("/home/dajanah/todos/" (25808 46427 772251 782000) "terraform.org" "./" ".#terraform.org" "../")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/prod-resources/" (25794 58654 702009 714000) "./" "../" "config.edn")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/resources/" (25794 57840 142735 550000) "./" "catalogue.csv" "../" "config.edn")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/scan-api/resources/public/" (25789 31576 863060 633000) "./" "js/" "../")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/scan-api/resources/" (25789 31576 863060 633000) "public/" "./" "../")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/scan-api/" (25789 31576 863060 633000) "./" "../" "resources/")
+
+ ("/home/dajanah/pink-panther-ltd/" (25793 16661 842484 88000) "./" "../" "tag-urls.txt" "pp-scan/")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/test/" (25777 9169 737489 171000) "./" "../" "phoebe/")
+
+ ("/home/dajanah/old-projects/nyaya/credo-api/" (25664 59218 386225 511000) "target/" "test/" "./" "deps.edn" "docker_build_local.sh" "example-esg-response.json" "api-config.edn" "src/" ".gitignore" "README.md" "../" ".dockerignore" "resources/" ".git/" ".cpcache/" "dev/" "Dockerfile" "build.clj" ".github/")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/public/js/" (25777 12379 504405 642000) "./" "main.js" "../" "manifest.edn" "cljs-runtime/")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/public/" (25777 12379 474405 999000) "index.html" "./" "shoes.png" "js/" "../" "main.css" "bag.png")
+
+ ("/home/dajanah/juxt/phoebe-philo/pink-panther-ltd/" (25776 64170 329125 258000) "./" "../")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-scan-api/src/" (25777 9169 737489 171000) "./" "../" "phoebe/")
+
+ ("/home/dajanah/juxt/phoebe-philo/" (25777 7417 36431 382000) "./" "experimental/" "pink-panther-ltd/" "pp-frontend/" "pp-scanner/" "../")
+
+ ("/home/dajanah/juxt/" (25776 64181 99031 659000) "./" "phoebe-philo/" "pink-panther-ltd/" "knowledge-graph-master/" "../" "site/" "astro-website/" "my-app2/")
+
+ ("/home/dajanah/pink-panther-ltd/pp-scan/pp-frontend/src/" (25777 9169 734155 859000) "./" "../" "main/")
+
+ ("/home/dajanah/old-projects/nyaya/credo-data/src/main/credo_data/graphs/" (25767 52852 594478 690000) "./" "graph_render.cljs" "model_edit_graph.cljs" "bond_graph.cljs" "../")
+
+ ("/home/dajanah/acme-app/src/main/acme/frontend/" (25767 63891 345531 149000) "./" "app.cljs" "handlers.cljs" "routes.cljs" "../" "home.cljs")
+
+ ("/home/dajanah/acme-app/" (25767 63697 456846 619000) "public/" "./" "src/" ".gitignore" "shadow-cljs.edn" "../" "package.json" "package-lock.json" ".shadow-cljs/" "node_modules/")
+
+ ("/home/dajanah/juxt/phoebe-philo/pp-frontend/" (25771 58223 861662 925000) "public/" "./" "deps.edn" "src/" ".gitignore" "README.md" ".tool-versions" "shadow-cljs.edn" "../" "LICENSE.md" "resources/" "yarn.lock" "package.json" ".git/" ".cpcache/" "package-lock.json" ".shadow-cljs/" "node_modules/" ".clj-kondo/")
+
+ ("/home/dajanah/juxt/phoebe-philo/pp-frontend/public/" (25770 62530 93613 831000) "index.html" "./" "shoes.png" "js/" "../" "main.css" "bag.png")
+
+ ("/home/dajanah/juxt/phoebe-philo/pp-frontend/src/main/app/" (25776 60710 117604 691000) "./" "handlers.cljs" "../" "core.css" "home.cljs" "core.cljs")
+
+ ("/home/dajanah/juxt/phoebe-philo/phoebephilo/phoebephilo-backend/src/phoebe/" (25774 29992 291957 858000) "./" "core.clj" "config.clj" "handler.clj" "../")
+
+ ("/home/dajanah/juxt/phoebe-philo/phoebephilo/phoebephilo-backend/" (25774 26499 482404 601000) "test/" "./" "deps.edn" "src/" "README.md" "docker_build.sh" "../" "resources/" ".cpcache/" "dev/" "Dockerfile" "config.edn" "scripts/")
+
+ ("/home/dajanah/juxt/phoebe-philo/phoebephilo/phoebephilo-backend/src/" (25771 52949 543259 845000) "./" "../" "phoebe/")
+
+ ("/home/dajanah/acme-app/public/" (25767 63658 477103 578000) "index.html" "./" "js/" "../" "main.css")
+
+ ("/home/dajanah/acme-app/public/js/" (25767 61449 113526 352000) "./" "main.js" "../" "manifest.edn")
+
+ ("/home/dajanah/acme-app/src/" (25767 61256 99684 464000) "test/" "./" "../" "main/")
+
+ ("/home/dajanah/acme-app/src/main/" (25767 61399 977545 643000) "./" "../" "acme/")
+
+ ("/home/dajanah/acme-app/src/main/acme/" (25767 61406 347455 90000) "./" "frontend/" "../")
+
+ ("/home/dajanah/juxt/phoebe-philo/pp-frontend/src/main/" (25767 55738 77003 676000) "./" "app/" "../")
+
+ ("/home/dajanah/juxt/phoebe-philo/pp-frontend/src/" (25767 55738 77003 676000) "./" "../" "main/")
+
+ ("/home/dajanah/my-app/src/app/" (25766 64358 335837 35000) "./" "../" "core.css" "core.cljs")
+
+ ("/home/dajanah/my-app/src/" (25766 42509 909477 771000) "./" "app/" "../")
+
+ ("/home/dajanah/my-app/" (25766 42942 400959 124000) "public/" "./" "deps.edn" "src/" ".gitignore" "README.md" ".tool-versions" "shadow-cljs.edn" "../" "LICENSE.md" "yarn.lock" "package.json" ".cpcache/" "dev/" ".shadow-cljs/" "node_modules/" ".clj-kondo/")
+
+ ("/home/dajanah/juxt/phoebe-philo/phoebephilo/" (25766 29773 97134 161000) "phoebephilo-backend/" "./" ".gitignore" "README.md" "../" ".git/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
